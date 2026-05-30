@@ -1,0 +1,9 @@
+element_class,n_reactions,n_converged,convergence_rate
+main_group_only,249749,32918,0.1318
+4d_TM,72306,19293,0.2668
+3d_TM,58793,12150,0.2067
+no_paper_metadata,37597,5185,0.1379
+5d_TM,26422,8697,0.3292
+no_xyz_data,25760,5906,0.2293
+lanthanides,981,112,0.1142
+actinides,512,94,0.1836

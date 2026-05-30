@@ -1,0 +1,1427 @@
+basis_set,n_reactions,n_converged,convergence_rate
+(no basis listed),269323,44419,0.1649
+6-31G(d),44477,10482,0.2357
+"6-31G(d,p)",31789,6324,0.1989
+def2-TZVP,31214,6316,0.2023
+LANL2DZ,25964,8093,0.3117
+def2-SVP,22948,4721,0.2057
+SDD,21956,7126,0.3246
+"6-311+G(d,p)",15426,3651,0.2367
+def2-TZVPP,14104,2543,0.1803
+"6-311++G(d,p)",12008,2178,0.1814
+"6-311G(d,p)",8173,1626,0.1989
+TZVP,5887,794,0.1349
+6-31+G(d),5644,1356,0.2403
+"6-31+G(d,p)",5603,727,0.1298
+6-311++G**,3702,786,0.2123
+cc-pVTZ,3380,565,0.1672
+def2-QZVP,3169,511,0.1612
+6-311+G**,2946,567,0.1925
+TZ2P,2549,136,0.0534
+def2-QZVPP,2526,577,0.2284
+6-31+G*,2324,317,0.1364
+6-311G(d),2226,303,0.1361
+BS1,2172,741,0.3412
+cc-pVDZ,2111,423,0.2004
+"6-311+G(2d,p)",2077,558,0.2687
+aug-cc-pVTZ,1940,251,0.1294
+6-311+G(d),1808,384,0.2124
+BS2,1697,665,0.3919
+cc-pVTZ(-f),1659,531,0.3201
+SVP,1646,185,0.1124
+"6-311+G(2d,2p)",1591,232,0.1458
+"6-31++G(d,p)",1565,260,0.1661
+6-31+G**,1561,137,0.0878
+LACVP,1536,383,0.2493
+LANL2TZ(f),1459,443,0.3036
+"6-311++G(2d,p)",1400,387,0.2764
+ma-TZVP,1287,486,0.3776
+"6-311+g(d,p)",1278,0,0.0000
+6-31G,1274,379,0.2975
+6-311+G*,1177,198,0.1682
+"6-311++G(2df,2p)",1102,15,0.0136
+"BS1, BS2",1042,365,0.3503
+"6-311++G(2df,2pd)",1003,26,0.0259
+LACV3P,932,220,0.2361
+QZ4P,777,0,0.0000
+6-31++G**,735,128,0.1741
+LANL2DZ(Pd),702,174,0.2479
+def2/J,677,89,0.1315
+DGDZVP,644,58,0.0901
+def2-TZVPPD,623,180,0.2889
+aug-cc-pVDZ,613,165,0.2692
+BSII,608,157,0.2582
+"6-311++g(d,p)",601,82,0.1364
+LANL2TZ,595,303,0.5092
+def2-SV(P),583,139,0.2384
+DZVP,575,88,0.1530
+"6-311++G(2d,2p)",571,131,0.2294
+LACVP**,554,137,0.2473
+"6-31g(d,p)",532,50,0.0940
+BSI,502,162,0.3227
+3-21G,488,221,0.4529
+TZP,469,69,0.1471
+cc-pVTZ-PP,464,243,0.5237
+SDD(Fe),460,34,0.0739
+cc-pVQZ,453,103,0.2274
+"6-311G++(d,p)",449,20,0.0445
+6-311++g**,446,243,0.5448
+def2-TZVPD,412,105,0.2549
+SV(P),400,60,0.1500
+"6-311++G(3df,3pd)",385,43,0.1117
+6-31G+(d),358,94,0.2626
+"SDD-6-311++G(d,p)",349,131,0.3754
+BS-II,340,99,0.2912
+LANL2DZ(f),339,66,0.1947
+def2-TZVP(-f),326,165,0.5061
+"SDD for Pt, 6-31G(d,p) for other atoms",319,0,0.0000
+"SDD for Pt, 6-31G(d) for other atoms",319,0,0.0000
+"SDD for Pt, Cl, Br and I; 6-31G(d) for other atoms",319,0,0.0000
+not specified,311,173,0.5563
+aug-cc-pVQZ,306,95,0.3105
+LANL2DZ + f (1.472),296,157,0.5304
+DZP,294,14,0.0476
+def2-SVPD,294,46,0.1565
+LANL2DZ(Fe),286,27,0.0944
+def-TZVP,285,28,0.0982
+6-31g(d),281,29,0.1032
+LACV3P**,278,121,0.4353
+LANL2TZ(f)(Pd),278,0,0.0000
+6-311+G(2d),275,28,0.1018
+BS-I,272,70,0.2574
+"def2-SVP, def2-TZVPP",272,41,0.1507
+"SDD(Fe,Br); 6-31G*(C,H); 6-31+G** (P,Cl)",268,248,0.9254
+def2-SVPS,266,46,0.1729
+6-311G,252,9,0.0357
+SDD ECP,247,56,0.2267
+VDZ,240,128,0.5333
+aug-cc-pV(T+d)Z,236,101,0.4280
+"6-311G+(d,p)",232,82,0.3534
+3-21G(d),229,2,0.0087
+"6-31+g(d,p)",229,84,0.3668
+CEP-31G,228,21,0.0921
+aug-cc-pVTZ-PP,224,30,0.1339
+SDD(Pd),223,56,0.2511
+def2-SD,222,15,0.0676
+"6-311G(2d,p)",220,58,0.2636
+Stuttgart,219,12,0.0548
+ma-def2-TZVPP,218,91,0.4174
+6-31G**[LANL2DZ],218,17,0.0780
+cc-pVTZ-DK,217,23,0.1060
+"6-31G+(d,p)",217,5,0.0230
+SVBS,215,185,0.8605
+"GBS(1), GBS(2)",211,186,0.8815
+cc-pwCVDZ,211,86,0.4076
+Lanl2dz-6-31G(d),211,0,0.0000
+BS3,210,32,0.1524
+def2-mSVP,207,23,0.1111
+"Wachters/6-31G(d,p)",205,0,0.0000
+"def2-SVP, def2-TZVP",203,13,0.0640
+LACV3P+,200,45,0.2250
+ANO-RCC-VTZP,199,107,0.5377
+Stuttgart-Dresden-Bonn basis set,197,0,0.0000
+lanl2tzf,196,0,0.0000
+"6-311+G(2df,p)",195,38,0.1949
+ECP28MDF,187,101,0.5401
+AWCVTZ,187,101,0.5401
+VDZ-F12,187,101,0.5401
+LANL2TZ(F),186,0,0.0000
+G-31G(d)-Lanl2dz,184,179,0.9728
+cc-pVDZ-PP,181,43,0.2376
+"6-31G(d,p); 6-311+G(d,p); LanL2DZ",179,144,0.8045
+"6-31G(d,p), LANL2DZ, 6-311+G(d,p)",179,144,0.8045
+6-311+g**,178,147,0.8258
+"6-311+G(2df,2p)",177,64,0.3616
+"6-31+G(d), LANL2DZ",176,0,0.0000
+SDD+f(Au),175,53,0.3029
+SDD+f,175,94,0.5371
+6-31G*/LANL2DZ,174,0,0.0000
+"6-31++G(2df,2pd)",172,0,0.0000
+6-311+G**/LANL2DZ,170,0,0.0000
+"6-31G(d), g-31G(d), STO-3G",168,0,0.0000
+LANL2DZ32,167,0,0.0000
+"6-311++G(3pd,3df)",166,0,0.0000
+SDD (Pd),165,0,0.0000
+ZORA-def2-TZVPP,165,3,0.0182
+6-31G**+SDD,164,43,0.2622
+triple-ξ quality,162,0,0.0000
+LANL08(f),162,51,0.3148
+(4s)/[2s] for hydrogen,158,115,0.7278
+(9s5p)/[4s2p] for first-row elements,158,115,0.7278
+"(8s,7p,6d)/[6s,5p,3d] for Rh",158,115,0.7278
+double-ζ Dunning-Huzinaga basis sets,158,115,0.7278
+"(4s,4p,1d)/[2s,2p,1d] for phosphorus",158,115,0.7278
+"TZV(2d,2p)",157,0,0.0000
+basis set IV,156,154,0.9872
+basis set II,156,154,0.9872
+basis set III,156,154,0.9872
+basis set I,156,154,0.9872
+LanL2TZ(f),155,55,0.3548
+SDD(Ni),155,115,0.7419
+TZVPP,152,18,0.1184
+aug-cc-pwCVQZ,151,52,0.3444
+Lanl2DZ(Pd),150,51,0.3400
+cc-pVDZ(-PP),149,108,0.7248
+"SDD-6-311+G(d,p)",148,90,0.6081
+LAN2DZ,147,76,0.5170
+LANL2DZdp,146,35,0.2397
+Lanl2dz (Pd),145,0,0.0000
+SARC-ZORA,142,0,0.0000
+SARC-DKH,142,0,0.0000
+"def2-TZVP, def2-QZVP",140,0,0.0000
+"BSI, BSII",139,28,0.2014
+aug-cc-pVDZ-PP,138,11,0.0797
+"6-311(d,p)",138,5,0.0362
+"6-31++g(d,p)",137,0,0.0000
+6-311+g(d),137,51,0.3723
+Def2-ecp,137,0,0.0000
+def2-QZVPS,133,0,0.0000
+LANL2DZ-6-31G(d),133,91,0.6842
+MWB28,133,0,0.0000
+LANL2DZ (for Cu),131,21,0.1603
+LANL2DZ+f,128,0,0.0000
+gen,127,98,0.7717
+BSIV,126,109,0.8651
+BSIII,126,109,0.8651
+3-21G**,125,0,0.0000
+Lan2LDZ,125,64,0.5120
+BS4,124,37,0.2984
+"cc-pVDZ, cc-pVTZ",122,13,0.1066
+def2/JK,119,0,0.0000
+Ahlrichs’ SVP,119,109,0.9160
+QZVP,118,96,0.8136
+def2-ECP,118,72,0.6102
+LANL2,116,0,0.0000
+"6-31G(d,p), 6-311+G(d,p), SDD",116,11,0.0948
+ccPVTZpp,115,0,0.0000
+Def2-TZVPPD,115,21,0.1826
+631LAN,115,29,0.2522
+6-31+g(d),114,48,0.4211
+B1,114,29,0.2544
+BS,114,103,0.9035
+"6-31G*(C,H,N,O,Br)",114,0,0.0000
+"6-311+G**(C,H,N,O,Br)",114,0,0.0000
+LANL08(d),112,0,0.0000
+def2-TZVPP/C,112,50,0.4464
+def2-mTZVPP,112,57,0.5089
+"SVP, TZVP",111,45,0.4054
+LANL2DZ(+f),111,10,0.0901
+SVP-sdd,110,0,0.0000
+TZVP-sdd,110,0,0.0000
+LANL2DZ(Rh),110,88,0.8000
+6-311G++**,109,35,0.3211
+LACV3P++**,107,20,0.1869
+"6-311++G(3df,2p)",107,0,0.0000
+CEP-31G(d),106,57,0.5377
+"Wachters-Hay 6-311+G(d,p)",106,27,0.2547
+def2-QZVPP/C,105,12,0.1143
+def2-TZVP/J,105,20,0.1905
+STO-3G,105,4,0.0381
+SDD(d),105,36,0.3429
+LANL08,104,19,0.1827
+Stuttgart [8s7p6d2f,104,83,0.7981
+"6-311++G (d, p), 6-31G(d)",103,0,0.0000
+SDD for Ni,102,54,0.5294
+"6++31G(d,p)",102,0,0.0000
+6-311++G,101,0,0.0000
+ma-def2-QZVPP,101,7,0.0693
+Def2-SVP(d),101,0,0.0000
+MG3S,101,0,0.0000
+"6-311+G(3df,2p)",100,3,0.0300
+"6-31G(d,p), 6-311++G(d,p)",98,41,0.4184
+"6-311+g(2d,p)",98,43,0.4388
+AUG-cc-pVTZ-PP,97,37,0.3814
+def2-SVPP,96,0,0.0000
+"SDD(Pd,Ag)",95,0,0.0000
+SV,95,2,0.0211
+Stuttgart/Dresden ECP (SDD),94,17,0.1809
+LACVP*,92,10,0.1087
+DZVP-MOLOPT-SR-GTH,92,20,0.2174
+cc-pVDZ-DK,91,23,0.2527
+6-31++G(d),91,78,0.8571
+"Def2SVP, Def2TZVPP",90,0,0.0000
+ZORA-def2-TZVP,89,26,0.2921
+Lanl2TZ(Rh),88,88,1.0000
+def-SVP,88,6,0.0682
+LANL2DZ ECP,87,7,0.0805
+LANL2DZ(Ni),86,65,0.7558
+def2-QZVPPD,85,17,0.2000
+"3ξ quality basis set with polarization functions, designated as TZ2p",85,0,0.0000
+ECP10MWB,85,1,0.0118
+DNP,84,31,0.3690
+Stuttgart effective core potentials with polarization function (ζf=1.0),84,0,0.0000
+ma-def2-TZVP,83,0,0.0000
+"6-311G(2df,2pd)",83,0,0.0000
+plane waves with a cutoff of 500 eV,83,0,0.0000
+VTZ,82,27,0.3293
+ECP3,81,0,0.0000
+def-SV(P),80,7,0.0875
+"6-311G(d, p)",80,0,0.0000
+"6-311++G(2d, p)",80,0,0.0000
+"LANL2DZ(Ni,Pd,Zn)",80,43,0.5375
+"SDD(Ni,Pd,Zn)",80,43,0.5375
+"TZVP, 6-31++G, QZVP",79,1,0.0127
+cc-pwCVTZ-DK,79,33,0.4177
+"6-311+G(d,p)(SDD)",79,0,0.0000
+Lanl2dz(Rh)-6-31G(d),79,31,0.3924
+"SDD(Rh)-6-311+G(d,p)",79,31,0.3924
+"6-31G**, 6-311+G**",78,0,0.0000
+DZVP on Pd and TZVP on all other atoms,77,73,0.9481
+def2-TZVP/C,77,0,0.0000
+"SDD, 6-31G(d), Def2-TZVP",77,0,0.0000
+Stuttgart effective core potentials,77,28,0.3636
+BS-III,77,32,0.4156
+modified cc-pVTZ,77,32,0.4156
+BS-L,77,32,0.4156
+BS-IV,77,32,0.4156
+"6-311++G(2df, 2pd)",77,0,0.0000
+LANL2DZ for Rh,76,35,0.4605
+"CEP-31G(d), CEP-31G(d)+",76,60,0.7895
+"6-31G**(C, H)",75,29,0.3867
+"6-311+G*(N, O)",75,29,0.3867
+"SDD, 6-31G**",75,0,0.0000
+"6-311++G(3df,2pd)",74,0,0.0000
+"Def2-SVP, Def2-TZVP",74,18,0.2432
+"DGDZVP, def2-TZVP",74,0,0.0000
+6-31(d),74,0,0.0000
+"BSII, BSI",74,5,0.0676
+B2,74,10,0.1351
+Stuttgart-Dresden basis set-RECP,73,49,0.6712
+Dunning cc-pVDZ,73,49,0.6712
+pVDZ,73,25,0.3425
+small-core effective core potential (60 MWB),72,34,0.4722
+[8s7p6d2f,72,12,0.1667
+SDB-cc-pVDZ,72,22,0.3056
+SDB-cc-pVTZ,71,21,0.2958
+Stuttgart triple zeta basis set (SDD),71,39,0.5493
+LANL2DZ(Ta),71,15,0.2113
+6311+LAN,71,20,0.2817
+3-21+G,71,20,0.2817
+[6s5p3d2f1g] contracted valence basis set with the Stuttgart-Dresden-Bonn energy-consistent pseudopotential (SDD),70,13,0.1857
+SDD for Au and Sb,70,63,0.9000
+RECP,70,0,0.0000
+"6-311+G(d,p), lanl2tzf",69,0,0.0000
+6s5p3d2f] ECP60MWB,68,41,0.6029
+6-31G(d) for other atoms,68,45,0.6618
+"6-31G(d), SDD",68,2,0.0294
+"LANL2DZ, cc-pVTZ",67,20,0.2985
+Stuttgart effective core potential,67,34,0.5075
+"cc-pVDZ-(PP), cc-pVTZ-(PP)",67,52,0.7761
+"LACVP, 6-31G, LACV3P++**",67,0,0.0000
+SDD (Co),66,3,0.0455
+"6-311G(2d,d,p)",66,50,0.7576
+Huzinaga-Dunning double-z,66,48,0.7273
+"LACVP*, LACV3P**+",65,0,0.0000
+SDD for Fe and cc-pvtz for other atoms,65,0,0.0000
+cc-pwCVDZ-PP,65,43,0.6615
+TZP-DKH(-dfg),65,3,0.0462
+LanL2dz:6-31G(d),64,27,0.4219
+"LanL2dz+f:6-311+G(d,p)",64,27,0.4219
+TZ2P(ZORA),64,0,0.0000
+cc-pVDZ-F12,64,0,0.0000
+Stuttgart SDD ECP,64,51,0.7969
+correlation-consistent polarized valence double-ζ,64,64,1.0000
+triple-ζ Dunning basis sets,64,64,1.0000
+Lanl2dz+f,64,61,0.9531
+"BS1, BS2, SDD, def2-SVP, def2-TZVPPD",63,0,0.0000
+"L1, def2-tzvp",63,0,0.0000
+SDDALL,63,25,0.3968
+SRSC,63,33,0.5238
+pVTZ,63,25,0.3968
+pVTZ&SDD,63,25,0.3968
+"Def2TZVP, Def2SVP",63,0,0.0000
+lanl2tz(f),62,18,0.2903
+"6-311+G(2df,2pd)",62,2,0.0323
+"TZ2p, 6-311+G(d,p)",61,0,0.0000
+IGLO-III,61,0,0.0000
+Ahlrichs TZVP,61,22,0.3607
+631LAN-SVP,61,22,0.3607
+6-31G; TZVP,60,0,0.0000
+lanl2tz for Cr,60,38,0.6333
+"6-311G(d,p) for other elements",60,38,0.6333
+D95V,60,14,0.2333
+Ru:SDD,60,0,0.0000
+6s5p3d2f],60,54,0.9000
+LANL2DZ with one f function,60,0,0.0000
+cc-pwCVTZ,60,34,0.5667
+LanL2DZ for Rh,59,0,0.0000
+ma-def2-tzvp,59,0,0.0000
+"631G(d,p)",59,36,0.6102
+"6311+G(2d,p)",59,36,0.6102
+SDD(f),59,6,0.1017
+def2-SVP; def2-TZVPP,59,0,0.0000
+Stuttgart RECPs,58,57,0.9828
+LANL2TZ+,58,15,0.2586
+def2-TZP,58,41,0.7069
+ma-def2-QZVP,57,0,0.0000
+"SVP, cc-pVTZ",57,0,0.0000
+BS1a,57,2,0.0351
+Stuttgart/Dresden relativistic effective core potential for Pd,56,56,1.0000
+"6-31G(d,p), LANL2DZ, 6-311++G(d,p), SDD",56,0,0.0000
+6-31+Gd,56,55,0.9821
+SDD+f(Mo),56,49,0.8750
+LACVP**++,56,0,0.0000
+"BSI=6-31G(d,p)",55,0,0.0000
+"BSII=6-311++G(d,p)",55,0,0.0000
+"lanl2tz for Cr, 6-311G(d,p) for other elements",55,0,0.0000
+Def2/J,54,0,0.0000
+SDD (Ru),54,26,0.4815
+LANL2DZ (Ru),54,26,0.4815
+QVZP,54,45,0.8333
+"def2SVP, def2TZVP",54,16,0.2963
+dgdzvp,54,36,0.6667
+LAND2DZ,54,3,0.0556
+LANL2DZ+ECP,53,32,0.6038
+"Def2-SVP, Def2-TZVPP",53,10,0.1887
+G98,53,0,0.0000
+"DZ, TZ",53,32,0.6038
+Stuttgart/Dresden basis set,53,1,0.0189
+311-split,52,40,0.7692
+def2-SVP; def2-TZVP,52,11,0.2115
+"6-31G(d), 6-311G(d), 6-311++G(2d,p)",52,0,0.0000
+VQZ,52,20,0.3846
+LANL2TZ (f),51,0,0.0000
+"BS-I, BS-II",50,0,0.0000
+lacv3p**,50,0,0.0000
+lacvp*,50,0,0.0000
+"BS1, BS2, def2-TZVP",50,2,0.0400
+cc-pvdz-f12,50,0,0.0000
+aug-cc-pwcvtz,50,0,0.0000
+"6-311++G**, Lanl2dz+f, 6-31G*",50,45,0.9000
+def2-TZVP(F),50,0,0.0000
+"Lanl2dz, 6-31g(d,p), Lanl08(f), Lanl08(d), 6-311+g(2d,p)",49,35,0.7143
+maug-cc-pVTZ,49,0,0.0000
+"6-311+G(2d,2p), LanL2TZ",49,0,0.0000
+"6-311++G (d, p), 6-31G(d), LANL2DZ",49,2,0.0408
+SARC-ZORA-TZVP,49,9,0.1837
+ECP28MWB,48,16,0.3333
+def2-SV/J,48,18,0.3750
+6s5p3d2f] ECP28MWB,48,0,0.0000
+CP(PPP),48,8,0.1667
+def2-SV,48,19,0.3958
+6-31G(d)[5d],47,0,0.0000
+def2-sv(p),47,0,0.0000
+def2-QVPP,47,0,0.0000
+svp,46,0,0.0000
+"6-311+G*, SDD",46,0,0.0000
+"SVP, (8s7p6d)/[6s5p3d]",46,0,0.0000
+cc-pVDZ-pp,46,0,0.0000
+6-31(+)G(d),46,0,0.0000
+SDD(Rh),46,30,0.6522
+ANO-L-VTZ,46,0,0.0000
+def2-QZVPP1,45,0,0.0000
+STO-TZ2P,45,0,0.0000
+"6-311G(2d,2p)",45,0,0.0000
+6-31G(d)/Ni: lanl2dz,45,27,0.6000
+"6-31G(d,p) for all other atoms",45,32,0.7111
+SDD for Rh in single-point calculations,45,32,0.7111
+6-311+G(3df),45,32,0.7111
+TZ2P(sbk-jc),45,1,0.0222
+LANL2DZ(d),45,8,0.1778
+6-311(d),45,26,0.5778
+"6-311+g(2d,2p)",45,0,0.0000
+Lanl2dz (Cu),44,0,0.0000
+SDD (Cu),44,0,0.0000
+6-31G+,44,38,0.8636
+"6-31G(d,p), SDD",44,0,0.0000
+D95(d),44,42,0.9545
+"6-31G(d,P)",44,0,0.0000
+LANL2DZ-6-31+G(d),44,6,0.1364
+lanl2dz-6-31+g**,43,0,0.0000
+lanl2dz-6-31g*,43,0,0.0000
+"6-311g(d,p)",43,2,0.0465
+SDD with effective core potential (ECP) for Fe,43,0,0.0000
+def2-TZVPP+,43,0,0.0000
+aug-cc-pVQZ-PP,43,20,0.4651
+pcSseg-2,43,0,0.0000
+"6-31++G(2df,2dp)",43,0,0.0000
+Basis set II,43,1,0.0233
+Basis set I,43,1,0.0233
+ECP1,42,0,0.0000
+"6-31+G(2d,p)",42,0,0.0000
+UFF,42,29,0.6905
+SDD for Pd,42,20,0.4762
+def2-tsvp,42,5,0.1190
+"6-311G++(d,p) (C1-C6, H29)",41,24,0.5854
+"6-31G(d) (C, H, O)",41,24,0.5854
+"6-31G(d,p) (C, H)",41,24,0.5854
+6-31G(d)-SDD,41,2,0.0488
+"6-31+G**, def2-TZVP",41,35,0.8537
+SDD for Rh,41,3,0.0732
+TZV,41,22,0.5366
+L1,41,0,0.0000
+SDD(Ir),41,20,0.4878
+VTZ-F12,41,0,0.0000
+"LANL2DZ, 6-31G*",40,33,0.8250
+SARC-ZORA-TZVPP,40,8,0.2000
+"LanL2DZ for Ir, 6-31G(d,p)",40,39,0.9750
+cc-pVTZ-F12,40,0,0.0000
+"6-31G(d), LANL2DZ (Pd)",40,38,0.9500
+"6-31G(d,p), lanl2dz",40,0,0.0000
+"SDD for Pd, I",40,35,0.8750
+"6-311+G(d,p) for other atoms",40,35,0.8750
+RECP from the Stuttgart group,40,0,0.0000
+SDD(ECP),40,5,0.1250
+"def2sv, def2tzvpp",39,0,0.0000
+DZ,39,9,0.2308
+def2-TZVP(SDD),39,0,0.0000
+6-31G** (LANL2DZ for Au),39,0,0.0000
+Lanl2dz(Ir),39,20,0.5128
+ECP2,39,0,0.0000
+"6-31G(d,p)(C,H)/LANL2DZ(Ta)",39,15,0.3846
+"6-31++G(d,p)/SDD(Ta)",39,15,0.3846
+PPh3,39,36,0.9231
+def2-TZVPPecp,38,0,0.0000
+def2-TZVPecp,38,0,0.0000
+"SDD, 6-31G(d), 6-311++G(d,p)",38,0,0.0000
+6-31+G(d)-SDD,38,37,0.9737
+"6-311++G(3d,2p)",38,0,0.0000
+"6-31G(D), TZVP",38,37,0.9737
+Stuttgart-Dresden pseudopotential with adapted basis set,38,12,0.3158
+"6-311+G(3d,p)",37,0,0.0000
+6-311G**++,37,0,0.0000
+3-21G-SDD,37,0,0.0000
+"D95(d,p)",37,0,0.0000
+Stuttgart basis set,37,0,0.0000
+"TZVP, SV(P)",37,0,0.0000
+GBS(2),37,0,0.0000
+GBS(1),37,0,0.0000
+Def2-TZVP(d),37,0,0.0000
+"6-311++G(3df, 2pd)",37,0,0.0000
+"6-31G(2df,p)",36,0,0.0000
+SDDAll,36,1,0.0278
+def2-mTZVPP/J,36,12,0.3333
+LANL2DZ for Ir,36,14,0.3889
+"LANL2DZ(Pd, Ag, I)",36,0,0.0000
+"cc-PVDZ, cc-PVTZ",35,0,0.0000
+"SDD,6-311+G(2d,p)",35,0,0.0000
+"SDD,6-31G(d)",35,0,0.0000
+"Lanl2dz (Pd, I)",35,0,0.0000
+6-31+G*(THF),35,0,0.0000
+6-311+G**(THF),35,0,0.0000
+Stuttgart-Köln basis set,35,0,0.0000
+D95V(d),34,0,0.0000
+Stuttgart relativistic effective core potential basis set for Os (ECP60MDF),34,0,0.0000
+"Lanl2dz(d,p)",34,30,0.8824
+def2-TZVP+,34,0,0.0000
+aug-cc-pVDZ-PP; cc-pVDZ; aug-cc-pVQZ-PP; cc-pVQZ,34,3,0.0882
+def2svpp,34,13,0.3824
+def2-TVZP,34,0,0.0000
+"CEP-31G(d), CEP-121G(d,p)",34,32,0.9412
+"LANL2DZ, LANL2TZ(f), 6-311++G**",34,30,0.8824
+"def2-SVP, def2-TZVPP, TZ2P",34,0,0.0000
+[6s5p3d2f1g] SDD,34,34,1.0000
+aug-cc-pVTZ-pp,34,16,0.4706
+Stuttgart/Dresden base and ECPs for transition metals,34,32,0.9412
+Def2SVPP,33,0,0.0000
+"6-31++G(d,p) for all other atoms in single-point calculations",33,21,0.6364
+"6-31+G(D,P)",33,0,0.0000
+cc-pvDz-pp,33,0,0.0000
+Stuttgart ECP,33,17,0.5152
+"LANL2DZ, SDD, 6-311+G(d,p)",33,31,0.9394
+triple-x SDD,32,0,0.0000
+"6-31G++(d,p)",32,4,0.1250
+Def2-QZVPPD,32,3,0.0938
+"6-311+G(2d,p), LANL2DZ(ECP)",32,24,0.7500
+Stuttgart RSC 1997 ECP,32,17,0.5312
+"6-311+(d,p)",32,0,0.0000
+Lanl2dz + f,32,22,0.6875
+6-31g(G),32,30,0.9375
+"SDD (Cu, Br, and I)",32,0,0.0000
+"Lanl2dz (Cu, Br, I)",32,0,0.0000
+SDD(Ru),32,0,0.0000
+LACV3P*,31,28,0.9032
+Def2-TZVP for all other atoms,31,0,0.0000
+LACVP; LACV3P*+,31,25,0.8065
+"LANL2DZ, SDD for Pd, 6-311+G(d,p)",31,31,1.0000
+Stuttgart RSC 1997 ECP/triple-ζ,31,16,0.5161
+6-31G(d):LANL2DZ,31,0,0.0000
+6-31G(d'),31,1,0.0323
+BS5,31,13,0.4194
+SDD(Cu),31,14,0.4516
+"LACV3P*, LACVP",31,23,0.7419
+def-TZVP for Pd,31,0,0.0000
+cc-pVTZ for all other atoms,31,0,0.0000
+"BS1 (SDD for cobalt, 6-31G(d) for other atoms)",31,1,0.0323
+"BS2 (SDD for cobalt, 6-311++G(2df,2p) for other atoms)",31,1,0.0323
+Lanl2DZ(Ni),31,0,0.0000
+Def2-SV(P),31,12,0.3871
+6-31+G,30,23,0.7667
+aug-cc-pVTZ-DK,30,0,0.0000
+Stuttgart-Dresden pseudo-potential,30,0,0.0000
+Def2-TZVP/C,30,0,0.0000
+Def2/JK,30,0,0.0000
+Def2-SVP/C,30,0,0.0000
+LanL2DZ(Pd),30,10,0.3333
+"TZVP, SVP, aug-cc-pVTZ, TZV+PP",30,0,0.0000
+LACV3P+*,30,5,0.1667
+def2-JK,30,0,0.0000
+double numerical basis set plus a polarization d-function on all non-hydrogen atoms and a polarization p-function on all hydrogen atoms,30,0,0.0000
+"cc-pVDZ, LANL2DZ",30,29,0.9667
+"6-311++G**(H, C, N, O, Na and Cl)",30,0,0.0000
+"6-311+G(d,p)/SDD",30,0,0.0000
+double-zeta quality basis set,30,0,0.0000
+6-31G(d)(SDD),30,0,0.0000
+6-31 + G(d),29,0,0.0000
+aug-cc-pwCVTZ,29,0,0.0000
+Stuttgart/Dresden,29,9,0.3103
+6-31*,29,0,0.0000
+"6-31G*, 6-311G**",29,0,0.0000
+"6-311+G(2d,2p), lanl2dz",29,0,0.0000
+LANL2DZ for Co and 6-31G(d) for other atoms,29,0,0.0000
+adapted basis set,29,0,0.0000
+triple-ζ,29,1,0.0345
+"def2-TZVP, def2-TZVPP",29,0,0.0000
+SARC/J,29,0,0.0000
+LanL2DZ(Rh),29,0,0.0000
+"6-31G*(C,H,O,N,F,P)",29,0,0.0000
+"6-311+G**(C,H,O,N,F,P)",29,0,0.0000
+cc-pwCVQZ-DK,29,11,0.3793
+quadruple-dzeta,29,11,0.3793
+triple-dzeta,29,11,0.3793
+cc-pVQZ-DK,29,11,0.3793
+lan2tz(f),29,0,0.0000
+cc-pVQZ-PP,28,25,0.8929
+obtained from the Gaussian Basis Set Order Form,28,0,0.0000
+SDD-6-31G*,28,0,0.0000
+LACV3P*+,28,20,0.7143
+SDD for Ru,28,0,0.0000
+TZVPD,28,0,0.0000
+double numerical plus polarization,28,5,0.1786
+"6-31+G(d), 6-311++G(d,p)",28,0,0.0000
+aug-def2-QZVP,27,0,0.0000
+AUTOAUX,27,0,0.0000
+def2-SVP(-p),27,0,0.0000
+6-311G(2d),27,3,0.1111
+6-31+G*(other atoms),27,0,0.0000
+6-31++G,27,0,0.0000
+AVDZ,27,19,0.7037
+LANL2DZDP,27,21,0.7778
+LanL2DZ(Br),27,0,0.0000
+cc-pV(T+d)Z,27,2,0.0741
+(14s9p5d)/[9s5p3d],27,0,0.0000
+def2-QZVP/j,27,0,0.0000
+def2-QZVP/c,27,0,0.0000
+"6-311+G(3df,3pd)",27,0,0.0000
+"6-31G(d), LanL2DZDP",27,0,0.0000
+6-31G(D),26,11,0.4231
+TZVP(SDD),26,0,0.0000
+cc-pwCVDZ-DK,26,22,0.8462
+LANL2DZ+p,26,17,0.6538
+LanL2DZspdf + ECP,26,20,0.7692
+Stuttgart ECP60MWB,26,20,0.7692
+"6-311+G(d,p), LANL2DZ",26,0,0.0000
+Aug-pcseg-1,26,6,0.2308
+SDD/AUG-cc-pVDZ,25,25,1.0000
+Lan2DZ,25,0,0.0000
+def2-SVP-LANL2DZ,25,23,0.9200
+D95 for H,25,0,0.0000
+LANL08 ECP for Ir,25,0,0.0000
+"aug-cc-pPDZ for C, N, O, P",25,0,0.0000
+DZVP2,25,0,0.0000
+wDZ,25,0,0.0000
+wTZ,25,0,0.0000
+"6-31G(d), 6-31+G(d), LANL2DZ",25,23,0.9200
+ZORA-def2-SVP,25,5,0.2000
+Lanl2TZ(f),25,0,0.0000
+"sdd+6-311++G(3df,2p)",25,0,0.0000
+"LanL2TZ(f), 6-311++ G(d,p), TZ2P",25,25,1.0000
+Lanl2TZ(Ru),25,0,0.0000
+Def2-mTZVP,24,0,0.0000
+"LANL2DZ, DEF2SVP, Def2TZVP",24,0,0.0000
+"6-311++g(2df,2p)",24,15,0.6250
+"SDD plus pseudopotential for silver, copper and gold",24,0,0.0000
+"LANL2DZ, 6-31G(d), def2-TZVP",24,0,0.0000
+augmented by an f-polarization function,24,0,0.0000
+adapted basis set augmented by a set of d functions,24,0,0.0000
+Lanl2dzdp,24,5,0.2083
+LANL2DZ for Pd,24,3,0.1250
+cc-pVTZ++,24,13,0.5417
+BP_TZVPD,23,0,0.0000
+Triplet-ζ,23,0,0.0000
+Double-ζ,23,0,0.0000
+ma-ZORA-def2-TZVP,23,17,0.7391
+"6-31+G(d,p), LANL2DZ+ECP",23,8,0.3478
+VDZP,23,2,0.0870
+lacvp,23,0,0.0000
+(311111/22111/411/11),23,0,0.0000
+"6-31G(d), SDD(Pd,Fe)",23,0,0.0000
+cc-pVTZ(-PP),22,0,0.0000
+"def2-TZVPP, def2-SVP",22,10,0.4545
+def2-SVP/C,22,0,0.0000
+LanL2DZ (Fe),22,0,0.0000
+SDD (Fe),22,0,0.0000
+SDD for Co,22,3,0.1364
+def2-J,22,0,0.0000
+Wachters-type,22,0,0.0000
+"6-311+G(2p,2d)",22,0,0.0000
+ECP10MDF,22,0,0.0000
+VTZ-PP,22,0,0.0000
+ANO-RCC-VTZ,22,0,0.0000
+aug-cc-pwCVTZ-DK,22,0,0.0000
+LANL2TZ for Ir,22,0,0.0000
+psLACVP**,22,0,0.0000
+6++31** for the rest,22,0,0.0000
+6-31** for the other elements,22,0,0.0000
+psLACV3P**++,22,0,0.0000
+cc-pVnZ-F12,22,0,0.0000
+aug-cc-pVnZ-PP,22,0,0.0000
+"6-311+G(d,p)-SDD",22,0,0.0000
+CBS,22,7,0.3182
+MWB10,22,0,0.0000
+def2-TZVPS,22,6,0.2727
+"6-31G*, 6-31++G**",21,0,0.0000
+TZVP6,21,21,1.0000
+TZ,21,9,0.4286
+"SDD(Rh,Cs)",21,0,0.0000
+Lanl2dz (Ni and I),21,14,0.6667
+"TZVP, aug-cc-pVTZ",21,20,0.9524
+ZORA-def2-QZVPP,21,0,0.0000
+"6-11+G(d,p)",21,17,0.8095
+Stuttgart pseudo-potential basis set,21,0,0.0000
+6-31g(d)-LANL2DZ,21,15,0.7143
+def2-QZVP(-f),21,0,0.0000
+def2-QZVP(-g),21,0,0.0000
+"B1, B2",21,0,0.0000
+"6-311++G(3df, 3pd)",21,4,0.1905
+LANL2DZ(f) (Pd),20,0,0.0000
+LANL2dz(f),20,20,1.0000
+SDD RECPs,20,0,0.0000
+SDD4,20,10,0.5000
+6-311+G**+TZVP(Zn),20,12,0.6000
+631SVP,20,12,0.6000
+D95**,20,0,0.0000
+triple zeta basis set,20,20,1.0000
+6-31+G(d)&SDD,20,15,0.7500
+Stuttgart/Dresden (SDD),20,0,0.0000
+LANL2TZ+(3d) for Cs,20,16,0.8000
+LANL2TZ+(3f) for Pd,20,16,0.8000
+LANL2TZ+(3d) for Sn,20,16,0.8000
+6-311+g*,20,4,0.2000
+"6-311G(d,p), cc-PVTZ",20,0,0.0000
+LACVP(d),20,0,0.0000
+"6-311++G(3df,3pd):sdd",20,19,0.9500
+double-ζ basis set with f-polarization functions,20,0,0.0000
+6-31G(d)-LANL2DZ,20,12,0.6000
+"6-31G(d), SDD, def2-TZVP",19,0,0.0000
+CEP/31G,19,0,0.0000
+aug-cc-pVDZ-PP for Mo,19,0,0.0000
+"6-311G(2d, d, p)",19,1,0.0526
+6-31+g**,19,0,0.0000
+LANL2 ECP,19,0,0.0000
+"LACVP(d,p)",19,11,0.5789
+Ahlrichs SVP,19,11,0.5789
+AM1,19,0,0.0000
+SVWN/STO-3G,19,0,0.0000
+Lan2L2DZ,19,18,0.9474
+cc-pV(D+d)Z-PP,19,16,0.8421
+triple-ζ STO basis set on Pd (TZV),19,7,0.3684
+double-ζ STO basis sets augmented by one polarization function (DZVP),19,7,0.3684
+ma-TZVPP,19,19,1.0000
+"6-31+G(d,p), cc-pVTZ",19,0,0.0000
+ma-Def2-QZVPP,19,0,0.0000
+6-31G*&Lanl2dz,19,0,0.0000
+6-31+g*,19,13,0.6842
+"def2-TZVP(Ga, P, N)",19,0,0.0000
+"Def2-SVP(C, H)",19,0,0.0000
+"6-311++G(D,P)",18,11,0.6111
+"double, triple, quadruple ζ",18,0,0.0000
+"LanL2DZ+G(d,p)",18,18,1.0000
+LANL08-f,18,13,0.7222
+"6-31g* on C, O, P, N, B and H",18,0,0.0000
+LANL2DZ on Cu,18,0,0.0000
+6-311G(d)-SDD,18,0,0.0000
+[6s5p3d2f1g] contracted valence basis set with SDD,18,18,1.0000
+SDD for Ni and Pt,18,10,0.5556
+6-311G(d) for other atoms,18,10,0.5556
+LANL2DZ for Ni and Pt,18,10,0.5556
+6-311+G**; 6-31+G*,18,8,0.4444
+"6-31G**, def2-TZVP",18,0,0.0000
+Stuttgart Effective Core Potentials,18,0,0.0000
+541/541/211/1,18,0,0.0000
+cc-pVQZ(without f and g),18,2,0.1111
+(8s7p6d)/[6s5p3d],18,0,0.0000
+triple-? plus polarization Slater basis set,18,0,0.0000
+lacvp**,18,0,0.0000
+TZP for nickel,18,0,0.0000
+DZP for all other atoms,18,0,0.0000
+"6-31G(d) (C, H)",17,17,1.0000
+"SDD (Ru, Rh)",17,17,1.0000
+"6-311G++(2d,p) (hydride)",17,17,1.0000
+"6-31G(d,p) (Cps)",17,17,1.0000
+"6-31G(d), 6-31++G(d,p)",17,0,0.0000
+"6-31+G(d,p), SDD",17,9,0.5294
+MDF10,17,0,0.0000
+"6-311++G(df,pd)",17,0,0.0000
+W06,17,0,0.0000
+"6-31G*, 6-311+G*, 6-31++G(d,3pd), SDDAll",17,0,0.0000
+Stuttgart-Dresden-Bonn pseudo-potential,17,6,0.3529
+"augmented and polarized all-electron triple-ζ 6-311G(d,p)",17,6,0.3529
+Stuttgart-Dresden-Bonn quasi-relativistic large effective core potential,17,6,0.3529
+aug-cc-pVTZ/C,17,0,0.0000
+def2,17,15,0.8824
+SDD for Au,17,0,0.0000
+"6-311++g(2d,2p)",17,2,0.1176
+"6-311++G(d,p), 6-31G(d)",17,0,0.0000
+"6-311G+(2d,p)",17,0,0.0000
+"LANL2DZ; 6-31G(d); SDD; 6-311+G(d,p)",17,12,0.7059
+"6-31g(d), def2sv",17,9,0.5294
+"TZVP, SVP",17,17,1.0000
+split-valence triple-ζ plus polarization function basis set,16,0,0.0000
+"double-ζ basis set augmented with even-tempered s, p, and d diffuse functions",16,0,0.0000
+SDD ECP on Fe,16,0,0.0000
+Def2-QZVPP for Cs,16,0,0.0000
+"cc-pvdz, cc-pvtz",16,0,0.0000
+CEP-121G,16,11,0.6875
+def2-QZVPP/J,16,6,0.3750
+BASIS_MOLOPT,16,0,0.0000
+BASIS_ADMM_MOLOPT,16,0,0.0000
+BASIS_ADMM,16,0,0.0000
+SDD+f(Pd),16,0,0.0000
+TZVPS,16,0,0.0000
+6-31G* 6d,16,0,0.0000
+6-31+G* 6d,16,0,0.0000
+6-311+G** 6d,16,0,0.0000
+Lanl2MB,16,13,0.8125
+"SDD(Ir, Sn)",16,0,0.0000
+"6-31G*(H except for Hydride, C)",16,0,0.0000
+"6-311G*(F, P, O, Hydride)",16,0,0.0000
+"6-311++G(d,p); 6-311++G(2d,2p)",16,5,0.3125
+Lanl2z with ECP,16,0,0.0000
+"LANL2DZ(f)-6-311+G(d,p)",16,7,0.4375
+"6-31G(d,p), may-cc-pVTZ",16,0,0.0000
+LANL08+(f),16,0,0.0000
+TZV2P-MOLOPT-GTH,16,0,0.0000
+Stuttgart relativistic pseudopotential,16,10,0.6250
+LanL2DZ-II,16,16,1.0000
+LanL2DZ-III,16,16,1.0000
+def2-TZVP(ECP),16,0,0.0000
+LANL08+(d),15,0,0.0000
+"SVP, TZVP, SDD",15,0,0.0000
+modified LANL2DZ plus a set of f-type functions,15,0,0.0000
+6-31G**; cc-pVTZ(-f); LACVP,15,0,0.0000
+6-31LAN,15,13,0.8667
+6-311G++,15,0,0.0000
+double-zeta basis set with polarization functions,15,0,0.0000
+LanL2DZ + f functions for Ru,15,6,0.4000
+SDD3,15,11,0.7333
+"6-31G(d,p), LANL2DZ",15,14,0.9333
+aug-cc-pVTZ-J,15,0,0.0000
+"6-311+G(2df,2p)[6-311G*]",15,0,0.0000
+(LANL2DZ),15,8,0.5333
+MWB46,15,0,0.0000
+BS-1,15,0,0.0000
+BS-2,15,0,0.0000
+Stuttgart [8s7p6d,15,15,1.0000
+6s5p3d] ECP10MWB,15,15,1.0000
+Los-Alamos double zeta basis set,14,9,0.6429
+"6-31++G(d,3pd)",14,0,0.0000
+"6-311G(d,p), lanl2TZ",14,0,0.0000
+"6-31G(d,p) for other atoms",14,0,0.0000
+"6-311++G(d,p) for nonmetal atoms",14,0,0.0000
+SDD+2fg(Au),14,0,0.0000
+def2-TZV,14,0,0.0000
+Stuttgart-Dresden basis set (SDD),14,0,0.0000
+cc-PVTZ-PP,14,0,0.0000
+"TZVP, SDD",14,0,0.0000
+cc-pV(D+d)ZS,14,10,0.7143
+"6-311++G(2d,p)(SDD for Rh)",14,0,0.0000
+"311-split, LACVP",14,8,0.5714
+TZVPB,14,13,0.9286
+"SDD+pol(Au,I)",14,13,0.9286
+SDD+pol(Au),14,13,0.9286
+pcseg-1,14,0,0.0000
+aug-pcseg-1,14,0,0.0000
+DGZVP,14,0,0.0000
+"6-311+G(2df,p)(SDD)",14,4,0.2857
+6-31+G*(SDD),14,4,0.2857
+"6-31G(d), 6-311++G(d,p)",14,0,0.0000
+LANL2DZ for Au,14,0,0.0000
+IGLO-II,14,0,0.0000
+"def2-SVP, TZ2P",13,1,0.0769
+SDD-ECP,13,0,0.0000
+Stuttgart SDDAll,13,6,0.4615
+"lanl2dz, 6-311+G**",13,0,0.0000
+"6-31G+(2d,2p)",13,0,0.0000
+cc-pPDZ,13,0,0.0000
+aug-cc-pVTZ/MP2FIT,13,0,0.0000
+def2-QZPP/JKFIT,13,0,0.0000
+def2-TZVPP/JKFIT,13,0,0.0000
+aug-cc-pDZ/MP2FIT,13,0,0.0000
+pVDZ/JKFIT,13,0,0.0000
+SDD6-31+G(d),13,6,0.4615
+"SDD6-311++G(2df,p)",13,6,0.4615
+double-ζ basis set,13,0,0.0000
+6-31G* for other atoms,13,0,0.0000
+6-311++G(d),13,3,0.2308
+def2-mTZVP,13,0,0.0000
+Stuttgart-Dresden-Bonn,13,5,0.3846
+"6-31G(d,p), LanL2DZ",13,0,0.0000
+TZVPfit,13,0,0.0000
+6-31G**/LACVP(Au),13,0,0.0000
+LACV3P(Au),13,0,0.0000
+Ahlrichs VDZ,13,9,0.6923
+LanL2DZ(W),13,0,0.0000
+IGLOIII,13,0,0.0000
+QZVPP,13,0,0.0000
+(8s7p6d1f)/[6s4p3d1f],13,3,0.2308
+LANL2DZ(Bi),13,11,0.8462
+cc-pVTZ/C,13,9,0.6923
+polarized triple- basis sets,13,0,0.0000
+6D 10F,13,0,0.0000
+LANL2DZp,13,0,0.0000
+ECP from Dolg et al.,12,0,0.0000
+Stuttgart-Dresden RECP,12,0,0.0000
+Stuttgart RSC 1997,12,2,0.1667
+Stuttgart RSC 1997 ECP (ECP10MDF),12,5,0.4167
+LANL2TZ(f)(Ni),12,10,0.8333
+(7s4p1d)/[3s2p1d],12,0,0.0000
+(4s1p)/[2s1p],12,0,0.0000
+(14s9p5d)/[5s3p2d],12,0,0.0000
+"CP(PPP), def2-TZVP",12,0,0.0000
+double-zeta valence basis set for Al,12,0,0.0000
+SVPP,12,0,0.0000
+"6-31G*(d,p)",12,0,0.0000
+aug-cc-pVTZ(-PP),12,0,0.0000
+Def2-ECP,12,2,0.1667
+"6-31G**, LANL2DZ",12,0,0.0000
+"6-31G*(H, C, N, O and P)",12,12,1.0000
+LANL2DZ(Ru),12,12,1.0000
+LANL2TZ(f)(Ru),12,12,1.0000
+"TZVP(H, C, N, O and P)",12,12,1.0000
+"TZVP, DZVP",12,0,0.0000
+6-311+G**(SDD),12,0,0.0000
+"SV (N, C, H)",12,0,0.0000
+"TZVP (Ncoord, Nbase, Cu, H2O2)",12,0,0.0000
+"TZVP (Ncoord, Cu)",12,0,0.0000
+"TZVP (Ncoord, Cu, OOH)",12,0,0.0000
+"Basis I combines DZP for O, Si, Ge, H and TZP for Pt, W, V, Cl, Li, Na, K",12,0,0.0000
+ANO-RCC-VDZP,12,6,0.5000
+BS I,12,12,1.0000
+BS II,12,12,1.0000
+Stuttgart RSC effective core potentials,12,0,0.0000
+LANL2DZ(Au),12,12,1.0000
+"311-split for main group elements with one additional polarization p-function for hydrogen, additional two polarization d-functions for elements of higher periods",12,0,0.0000
+"UFF, SMD",12,0,0.0000
+large basis sets,12,0,0.0000
+"6-31G'(d,p)",12,0,0.0000
+aug-cc-pwCVQZ-DK,12,0,0.0000
+"SDD-6-31G(d,p)",12,7,0.5833
+aug-cc-pVXZ-PP,12,0,0.0000
+"6-31G+(2df,2p)",12,12,1.0000
+"6-311++G(d,p) for all other atoms in single-point calculations",12,11,0.9167
+"6-31G(2d,p)",11,8,0.7273
+BBS aug-cc-pwCVQZ-DK,11,0,0.0000
+BP_TZVP_19,11,0,0.0000
+B2 (def2-TZVP),11,0,0.0000
+"B1 (SDD for Pd and I, 6-31G*)",11,0,0.0000
+"6-311++g(2d), 6-31G(d)",11,0,0.0000
+def2-DZVP,11,0,0.0000
+EPR-II,11,0,0.0000
+def2-TVPP,11,0,0.0000
+"LANL2DZ, 6-31G(d)",11,0,0.0000
+Ahlrichs def2-TZVPP,11,0,0.0000
+Ahlrichs def2-SVP,11,0,0.0000
+Stuttgart-Dresden pseudopotential,11,0,0.0000
+"augmented basis set with polarization functions (d for Sr, f for Yb, d for F)",11,0,0.0000
+Stuttgart/Dresden ECPs (SDD),11,0,0.0000
+6-31G**/LACVP,11,0,0.0000
+SDD for Cl,11,0,0.0000
+"6-31G(d,p) for C, B, and H",11,0,0.0000
+"6-31G(d), 6-311+G(d,p), SDD",11,0,0.0000
+"6-31G(p,d)",11,0,0.0000
+"SDD(f,g)",11,0,0.0000
+6-311+G*on S,11,11,1.0000
+6-311+G(2df),11,0,0.0000
+"SDD(d), TZP",11,0,0.0000
+"6-311+G(3df,p)",11,0,0.0000
+cc-pwVTZ-DK,11,5,0.4545
+cc-pwVDZ-DK,11,5,0.4545
+"TZV,3-21G*",11,0,0.0000
+"TZVP,SV(P)",11,0,0.0000
+DZVP for Pd; TZVP for other atoms,11,7,0.6364
+SDD + ECP(SDD) for Pd; 6-311G+(d) for O; 6-311G(d) for other atoms,11,7,0.6364
+LANL2DZ + ECP(LANL2DZ) for Pd; 6-31G(d) for other atoms,11,7,0.6364
+[6s5p3d1f],11,0,0.0000
+LANL2DZ (Ni)/6-31++G** (Other atoms),11,0,0.0000
+"aug-cc-pvdz (Ni,S)/cc-pvdz (other atoms)",11,0,0.0000
+LANL2TZ+ (Ni)/6-311++G** (Other),11,0,0.0000
+"def2-SV(P), def2-TZVPP, def2/J, def2-TZVPP/C",11,0,0.0000
+SDD3 for Ni,11,0,0.0000
+6-31+G(3pd),11,0,0.0000
+LACVPS,10,0,0.0000
+Wachters’ augmented basis set,10,8,0.8000
+Wachters+f,10,8,0.8000
+"6-31G(d,p), Stuttgart/Dresden Effective Core Potential and its associated basis set SDD",10,0,0.0000
+"6-31G*; 6-311++G(d,p); SDD",10,0,0.0000
+"cc-PVTZ, 6-31g(d,p)",10,0,0.0000
+"6-311++G(d,p), MWB (46/4)",10,0,0.0000
+LANL2MB,10,0,0.0000
+LanL2DZ+p,10,9,0.9000
+"DZP, TZP",10,6,0.6000
+3ζ,10,0,0.0000
+(15s11p6d) primitive set of Wachters-Hay,10,0,0.0000
+"6-31G(d), def2-SVP, def2-TZVP",10,4,0.4000
+LAN08F,10,0,0.0000
+aTZ,10,0,0.0000
+aDZ,10,0,0.0000
+ANO-S-MB,10,6,0.6000
+"6-31++g(2d,p)",10,0,0.0000
+"6-311+G(df,p)",10,0,0.0000
+"6-31G++(d), 6-31G+(d), TZVP",10,0,0.0000
+WTBS,10,9,0.9000
+"6-311++G(2df,p)",10,0,0.0000
+"def2-TZVP, 6-31G(d)",10,0,0.0000
+SDB basis sets,10,9,0.9000
+LANL2TZ+(Cu),10,7,0.7000
+CoreProp,10,0,0.0000
+SV-ZORA,10,0,0.0000
+TZV-ZORA,10,0,0.0000
+ECP-60-MWB,10,6,0.6000
+cc-pVDZ; aug-cc-pVDZ-pp; cc-pVTZ; aug-cc-pVTZ-pp,10,9,0.9000
+"6-31g (C, H)",10,9,0.9000
+"6-311g* (Cu, N, O)",10,9,0.9000
+"TZ2P, cc-pVTZ",9,0,0.0000
+D95,9,8,0.8889
+"Def2-SVP, TZ2P",9,9,1.0000
+unknown,9,0,0.0000
+Ta:[6s5p3d],9,0,0.0000
+"TZ2P, def2-TZVPPD",9,0,0.0000
+Stuttgart basis set for yttrium,9,9,1.0000
+Stuttgart-Dresden effective small core potential basis set for Ni(SDD),9,0,0.0000
+pc-1,9,0,0.0000
+D95V for C.H,9,0,0.0000
+D95* for N,9,0,0.0000
+"LANL2DZ for Ni, Ru",9,0,0.0000
+"6-31+G(d,p), LANL2DZ, SDD",9,0,0.0000
+LANLTZ,9,2,0.2222
+polarized triple-ζ,9,2,0.2222
+TZVP-GTH,9,6,0.6667
+DZVP-GTH,9,6,0.6667
+"LANL2TZ(f)-6-311+G(d,p)",9,0,0.0000
+"def2/J, def2-TZVP",9,0,0.0000
+jul-cc-pVDZ,9,0,0.0000
+def2-def2-SVP,9,0,0.0000
+pcS-2,9,0,0.0000
+n.a.,9,0,0.0000
+6-31G*(rest),9,4,0.4444
+"SDD(Mn,I)",9,4,0.4444
+def2-svpp,9,0,0.0000
+"6-31G(d), pcS2",9,0,0.0000
+"TZVP, 6-311+g(d)",9,0,0.0000
+"6-31G*, Lanl2dz",9,0,0.0000
+"6-31+G(d), lanl2dz, SDD-6-311++G(d,p)",9,0,0.0000
+CBSB7,8,3,0.3750
+def2-TZVP3,8,0,0.0000
+"6-31G**, 6-311++G**, LanL2DZ",8,0,0.0000
+3-21+G(d),8,0,0.0000
+Lanl2tz(f),8,0,0.0000
+"cc-pVDZ, cc-pVDZ-PP, cc-pVTZ, cc-pVTZ-PP",8,0,0.0000
+Lanl2Tz(f),8,4,0.5000
+6-311G**(others),8,7,0.8750
+6-31G*(others),8,7,0.8750
+6-31+G** all-electron,8,0,0.0000
+"SV(P), TZVP",8,0,0.0000
+ma-def2TZVP,8,0,0.0000
+LACVP+*,8,0,0.0000
+LACV3P+**,8,0,0.0000
+"BS-I: Lanl2dz for Pd and Ni, 6-31G(d) for other atoms",8,0,0.0000
+"BS-II: SDD for Pd and Fe, 6-311++G(2d,2p) for other atoms",8,0,0.0000
+6-31G* for other main-group atoms,8,3,0.3750
+"6-31+G* for N, O",8,3,0.3750
+6-311++G**/SDD,8,6,0.7500
+6-31G**/LanL2DZ,8,6,0.7500
+Midix,8,0,0.0000
+Ahlrichs TZV,8,0,0.0000
+double-zeta,8,0,0.0000
+def2-complete basis set,8,2,0.2500
+LanL2MB,8,0,0.0000
+"Def2-TZVPP, 6-31G(d)",8,0,0.0000
+LANL2DZ+f(Ru),8,6,0.7500
+"6-31+G*(H,C)",8,6,0.7500
+"6-31+G**(P,S)",8,6,0.7500
+Stuttgart-Dresden pseudopotentials,8,0,0.0000
+relativistic ECP and basis set of the Stuttgart group,8,0,0.0000
+"6-311+G(D,P)",8,0,0.0000
+"6-31++(d,p)",8,0,0.0000
+LANL2dzdp,8,0,0.0000
+"6-311G(d,p), def2-TZVP",8,5,0.6250
+Lanl2dz3,8,1,0.1250
+triple-ζ Slater-type basis set (TZP),8,0,0.0000
+SDD/ECP,8,7,0.8750
+Stuttgart-Dresden SDD,7,1,0.1429
+LACV3P**++,7,0,0.0000
+LANL2DZpd(Cl),7,0,0.0000
+Stuttgart RSC ECP,7,0,0.0000
+augmented LANL2DZ(dp),7,0,0.0000
+DB-aug-cc-pVTZ,7,0,0.0000
+6-311G+(3d),7,0,0.0000
+LANL2DZ+f (ECP),7,1,0.1429
+"6-311++G(d,p)-SDD+f(ECP)",7,1,0.1429
+Stuttgart-Dresden small core RECP,7,0,0.0000
+6-31G(d):lanl2dz,7,0,0.0000
+LanLD2DZ,7,0,0.0000
+6-31G+p(d),7,2,0.2857
+"LACVP, LACV3P*+",7,6,0.8571
+DGTZVP,7,0,0.0000
+"LANL2Dζ(W,Pt)",7,0,0.0000
+"6-31+G(d,p), def2-TZVP",7,0,0.0000
+"6-31G(d), LANL2DZ",7,0,0.0000
+small basis set,7,0,0.0000
+def2/JS,7,0,0.0000
+Hay-Wadt small core effective core potential,7,6,0.8571
+double-zeta plus polarization (DZVP),7,0,0.0000
+SDD for Ni and Br,7,0,0.0000
+energy-optimized valence basis set,7,0,0.0000
+quasi-relativistic energy-consistent 5f-in-core RECP,7,0,0.0000
+"D95, SDD 16 valence electrons basis set, TZVP",7,0,0.0000
+"5s,5p,5d",7,0,0.0000
+"3s,3p,1d",7,0,0.0000
+"4s,4p,3d",7,0,0.0000
+TZP-DKH,7,0,0.0000
+mTZVP,7,0,0.0000
+"SDD for Rh and 6-311+G(d,p) for other atoms",7,0,0.0000
+6-31G(2d),7,0,0.0000
+ECP28MWB VTZ,7,0,0.0000
+"6-31(d,p)",7,0,0.0000
+triple-ξ polarization (TZP),7,0,0.0000
+6-311++G**/SDD(Cu),7,0,0.0000
+6-31G**/LanL2DZ(Cu),7,0,0.0000
+Turbo mole basis set TZVP,7,0,0.0000
+Huzinaga-Dunning double-ζ,7,1,0.1429
+A,7,6,0.8571
+"DZP, TZ2P",7,0,0.0000
+DKH-def2-TZVPP,7,0,0.0000
+Def2-QZVPD,7,0,0.0000
+"6-31G(d’,p’)",7,0,0.0000
+triple-z Slater basis set plus double-polarization (STO-TZ2P),7,0,0.0000
+def2-TZV/J,7,1,0.1429
+"6-311G(2df,p)",7,0,0.0000
+PC-3,7,0,0.0000
+"SDD, cc-pVDZ",7,0,0.0000
+def2-xVP,7,3,0.4286
+pTZV,7,0,0.0000
+6-31+G**(LANL2DZ for Ni and Br atoms),6,0,0.0000
+STO-basis sets,6,1,0.1667
+"6-311++G(d,p) for other elements",6,2,0.3333
+[5s5p3d1f] contracted-valence basis set with the relativistic effective core potential of Hay and Wadt (LanL2TZ(f)) for Ru,6,2,0.3333
+[6s5p3d2f1g] contracted-valence basis set with the Stuttgart-Dresden-Bonn energy-consistent pseudopotential (SDD) for Ru,6,2,0.3333
+6-31G(d) for other elements,6,2,0.3333
+[6s5p3d] Stuttgart-Dresden basis set,6,5,0.8333
+def2-TZVP(P),6,0,0.0000
+SBKJC,6,6,1.0000
+[6s5p3d2f1g],6,0,0.0000
+"Stuttgart relativistic, small core ECP basis sets for Pt",6,0,0.0000
+aug-cc-pVTZ(-f),6,0,0.0000
+aug-cc-pVQZ(-g),6,0,0.0000
+"def2-QZVPP(-g,-f)",6,0,0.0000
+6s4p3d1f,6,0,0.0000
+LACV3P(Mn),6,0,0.0000
+LACVP(Mn),6,0,0.0000
+"6-311+G**(C, H, O, N, and S)",6,0,0.0000
+"6-31G*(C, H, O, N, and S)",6,0,0.0000
+dhf-TZVP,6,0,0.0000
+TZ2P+,6,0,0.0000
+LANL2DZ; 6-31G*; 6-311++G**,6,0,0.0000
+aug-cc-PVTZ-DK,6,2,0.3333
+"6-31+G(2d,2p)",6,0,0.0000
+triple-z def2-TZVP,6,0,0.0000
+double-z def2-SVP,6,0,0.0000
+def2 ECP,6,0,0.0000
+scalar relativistic pseudopotentials of the Stuttgart-Dresden-Koln type,6,6,1.0000
+"6-31+G(d,p), LANL2DZ",6,0,0.0000
+"6-311++ G(2df, 2pd)",6,0,0.0000
+SDD plus polarization,6,0,0.0000
+"def2-TZVP, TZ2P",6,0,0.0000
+DKH-def2-TZVP(-f),6,0,0.0000
+"SDD for Au and I, 6-31G(d,p) for C, H and P",6,0,0.0000
+LANL2TZ+f,6,0,0.0000
+ma-def2-SVP,6,0,0.0000
+"6-311+G(2df,3pd)",6,0,0.0000
+plane-wave basis sets,6,0,0.0000
+cc-pCVQZ,6,0,0.0000
+def2-TVZPP,6,2,0.3333
+"cc-pvDZ, aug-cc-pvDZ",6,6,1.0000
+Lanl2dz(f),6,0,0.0000
+"SDD, SVP, TZVP",6,0,0.0000
+all-electron,5,3,0.6000
+"6-31+G(d), LanL2DZ",5,0,0.0000
+"6-311++G(3df,p)",5,0,0.0000
+5f-in-large-core ECPs,5,0,0.0000
+SDD basis sets,5,0,0.0000
+LanL2DZdp,5,3,0.6000
+"TZVP, def2-TZVP",5,3,0.6000
+"6-31G*; 6-311+G(d,p); Lanl2dz; SDD",5,0,0.0000
+cc-pCVTZ,5,0,0.0000
+"6-31+G(d), 6-311+G(d,p), 6-311+G(2d)",5,2,0.4000
+6-31d,5,3,0.6000
+Def2-QZVPP|Def2-QZVPP/J,5,0,0.0000
+aug-cc-pwCVQZ-PP,5,0,0.0000
+SDB-aug-cc-pVTZ,5,1,0.2000
+plane-wave,5,0,0.0000
+6-311++g(D3),5,5,1.0000
+def2-TZVP(D3),5,5,1.0000
+"def2-TZVPD, def2-TZVPPD",5,0,0.0000
+Rh {20s16p11d}/[14s11p7d],5,2,0.4000
+H {5s1p}/[3s1p],5,2,0.4000
+"C, N, O {11s6p2d}/[6s3p2d]",5,2,0.4000
+I {21s17p12d}/[15s12p8d],5,2,0.4000
+QZP,5,4,0.8000
+"6-311+G(d,p), LanL2DZ",5,0,0.0000
+"def2-TZVP, def2-SVP",5,0,0.0000
+lanl2dz/ECP,5,0,0.0000
+Stuttgart-Bonn ECP,5,2,0.4000
+"6-31G(d), SDD, def2-TZVP, def2-QZVP",5,0,0.0000
+Stuttgart/Dresden ECPs pseudopotential (SDD),5,5,1.0000
+ma-SVP,5,0,0.0000
+Stuttgart-Dresden effective core potential,5,2,0.4000
+ma-ZORA-def2-TZVPP,5,0,0.0000
+"TZPV, cc-pVTZ",5,0,0.0000
+"aug-cc-pVDZ, aug-cc-pVTZ, def2-SVP",5,0,0.0000
+"6-31g+(d,p)",5,1,0.2000
+Lanl2dz (for Ru),5,3,0.6000
+SDD (for Ru),5,3,0.6000
+6-31G**++,5,0,0.0000
+cc-pVTZ-pp,5,0,0.0000
+sv(p),5,0,0.0000
+"SDD (Pd, I)",5,0,0.0000
+"cc-pV{D,T}Z-F12",5,4,0.8000
+"aug-cc-pV{D,T}Z-PP",5,4,0.8000
+double numeric polarized (DNP),5,4,0.8000
+6-311g(d),5,0,0.0000
+"LANL2DZ(d,p)",5,0,0.0000
+modified triple-ζ Los Alamos basis set,4,0,0.0000
+modified double-ζ Los Alamos basis set,4,0,0.0000
+lanl2dz (ECP),4,0,0.0000
+Stuttgart SDD,4,0,0.0000
+plane wave pseudopotential,4,0,0.0000
+Def2-SVPP,4,0,0.0000
+b-p/SV(P),4,0,0.0000
+"zora-def2-TZVP, def2-TZVP",4,0,0.0000
+def-TZVPP,4,0,0.0000
+"SVP(C,H)",4,0,0.0000
+"TZVP(Co,P)",4,0,0.0000
+"genecp, def2tzvp",4,4,1.0000
+cc-pvtz-pp,4,4,1.0000
+6-31G+**,4,0,0.0000
+"SDD, 6-31G(d), 6-311+G(d,p)",4,3,0.7500
+cc-pVTZ-X2C,4,0,0.0000
+Stuttgart RSC 1997 ECP for Pd,4,4,1.0000
+triple-ζ STO,4,0,0.0000
+LANLDZ+f,4,3,0.7500
+LANLTZ+f,4,3,0.7500
+LAN2L2DZ,4,0,0.0000
+6s5p3d1f,4,0,0.0000
+LANL2Dz(Rh),4,0,0.0000
+"6-31G(d,p), 6-31+G(d)",4,0,0.0000
+6-311G+(d),4,0,0.0000
+"aug-pc-1, pcseg-1",4,0,0.0000
+"TZVPP, TZVP",4,0,0.0000
+"LANL2Dz(W,Se)",4,1,0.2500
+"6-311+G(d,p), 6-311++G(2d,p)",4,0,0.0000
+6d,4,0,0.0000
+6-31+g(d'p),4,0,0.0000
+aug-SDB-cc-pVTZ,4,0,0.0000
+ECP60MWB(8s7p6d)/[6s5p3d],4,0,0.0000
+ECP10MWB(4s4p)/(2s2p),4,0,0.0000
+ECP10MDF(8s7p6d1f)/(6s5p3d1f),4,0,0.0000
+ECP28MDF(8s7p6d1f)/(4s4p3d1f),4,0,0.0000
+Wachters+f 6-31+G**,4,2,0.5000
+Wachters+f 6-311++G**,4,2,0.5000
+"6-31+G(d,p); Aug-cc-pVTZ; DB-aug-cc-pVTZ",4,3,0.7500
+SDD(2f),4,0,0.0000
+augmented by f function,4,0,0.0000
+cc-pTVZ(-f),4,0,0.0000
+pcseg-2,4,0,0.0000
+SDD for Ni and I,4,3,0.7500
+SDD(I),4,0,0.0000
+double-z LANL2DZ,4,0,0.0000
+LANL2LTZ(f),4,0,0.0000
+"6-31G(d,p), 6-311+G(d,p)",4,0,0.0000
+SDD+f (Cu),3,0,0.0000
+LANL08+,3,0,0.0000
+ae-TZP,3,0,0.0000
+cep-121G*,3,0,0.0000
+SDB basis sets for Pd,3,0,0.0000
+6-311G(d) for other atoms in single-point calculations,3,0,0.0000
+aug-cc-p(V+d)Z,3,0,0.0000
+cc-pVXZ,3,0,0.0000
+aug-cc-pVXZ,3,0,0.0000
+modified LANL2DZ plus a set of f-type functions for Ir,3,0,0.0000
+triple-ζ TZVP,3,1,0.3333
+D95v,3,0,0.0000
+MIDI,3,0,0.0000
+LANL2DZ (Re),3,0,0.0000
+ZORA-Def2-TZVPP,3,0,0.0000
+ZORA-Def2-SVP,3,0,0.0000
+ZORA-Def2-TVP,3,0,0.0000
+"6-311+G(d,P)",3,0,0.0000
+"Lanl2DZ(Co,Br)",3,0,0.0000
+"6-311G(d,p), LANL2DZ",3,3,1.0000
+BS(I),3,2,0.6667
+BS(II),3,2,0.6667
+6311+Gdp,3,1,0.3333
+PAW pseudopotentials,3,0,0.0000
+"6-31G(d); SDD-6-311++G(d,p)",3,0,0.0000
+Def2SVP; Def2TZVP,3,2,0.6667
+"6-31G*, 6-31+G*, 6-31G**, 6-311G*",3,0,0.0000
+SRSC-ECP,3,3,1.0000
+"6-311G** for C, H, and P",3,0,0.0000
+3-21+G*,3,0,0.0000
+"6-311+G(d,p), TZVP",3,0,0.0000
+"6-311+g(2df,p)",3,0,0.0000
+6-31 G(d),3,1,0.3333
+QZ3P-1D,3,0,0.0000
+QZ3P,3,0,0.0000
+aug-TZP,3,0,0.0000
+"SDD:6-311++G(d,p)",3,0,0.0000
+6s1p contracted to 4s1p pattern {3111/1},3,0,0.0000
+10s5p1d contracted to 6s2p1d pattern {511111/41/1},3,0,0.0000
+ZORA-TZVP,3,1,0.3333
+"Zr SDD/ F, N, C, H TZVP, Zr def2-QZVP",3,3,1.0000
+Lanl2dz(Cu),3,2,0.6667
+VTZP,3,0,0.0000
+def2-TVP,3,0,0.0000
+"LANL08d, 6-31+G(d,p)",2,0,0.0000
+Def-TZVP,2,0,0.0000
+Def-SVP,2,0,0.0000
+"Lanl2dz, 6-31G(d)",2,0,0.0000
+ZORA/TZP,2,0,0.0000
+SARC,2,1,0.5000
+6-311+G(3d2f),2,0,0.0000
+"aug-cc-pVDZ, aug-cc-pVTZ",2,0,0.0000
+631A,2,0,0.0000
+631WH,2,0,0.0000
+"6-311G(3df,2p)",2,0,0.0000
+Def2TZVPS,2,0,0.0000
+def-QZVPP,2,0,0.0000
+Lanl2dz+f(1.350),2,0,0.0000
+"6-311++G(3df,3pd), SDD",2,0,0.0000
+SDD for Pd atom,2,0,0.0000
+6-31+G(d)-LANL2DZ,2,0,0.0000
+"6-311++G(d,p)-SDD",2,0,0.0000
+high basis set,2,0,0.0000
+low basis set,2,0,0.0000
+SDD for Zr,2,2,1.0000
+(aug)-cc-pVDZ,2,0,0.0000
+def2-svp; def2-TZVPPD,2,0,0.0000
+TZV2P,2,0,0.0000
+LANL08d,2,0,0.0000
+6-311G**-SDD,2,1,0.5000
+[6s5p3d],2,0,0.0000
+"6-311++G(2d,3p)",2,0,0.0000
+ZORA-def2-SVP/C,2,0,0.0000
+def2-SVP/J,2,0,0.0000
+ECP60MWB,2,0,0.0000
+14s11p6d/10s8p3d for Fe,2,2,1.0000
+9s5p/4s2p for C and O,2,2,1.0000
+Huzinaga-Dunning DZ for H,2,2,1.0000
+"6-31g**(C, H)",2,1,0.5000
+"6-311+g*(S, N, F)",2,1,0.5000
+"TZ2P, QZ4P, 6-31G**",2,0,0.0000
+D95v(d),2,2,1.0000
+larger,2,0,0.0000
+small,2,0,0.0000
+"6-311G(2df,2p)",2,0,0.0000
+SDD for Cu,2,0,0.0000
+Stuttgart relativistic small core ECP and (8s7p6d)/[6s5p3d],2,0,0.0000
+"ma-TZVPP, 6-311+G(d,p)",2,0,0.0000
+ccpVTZ(-f),2,0,0.0000
+standard LANL2DZ (L2),2,1,0.5000
+large DNP numeric basis set,2,1,0.5000
+6-311G(3df),2,0,0.0000
+6-311G(3d),2,0,0.0000
+aug-cc-pvtz-pp,2,1,0.5000
+jun-cc-pVDZ,2,1,0.5000
+ANO-RCC-MB,2,0,0.0000
+Ahlrichs' SVP,2,0,0.0000
+SDD (8s7p6d2f1g)/[6s5p3d2f1g],2,0,0.0000
+6-31G*; 6-311+G**,2,0,0.0000
+6-31+,2,0,0.0000
+"6-31+G; 6-311++G(d,p)",2,0,0.0000
+stuttgart_rsc_1997_ecp,2,0,0.0000
+"6-31++G(2df,2p)",2,0,0.0000
+"triple-ζ + 2 polarization, relativistically optimized",2,0,0.0000
+"6-31G(d,p), Stuttgart/Dresden ECP (SDD)",2,1,0.5000
+LanL2DZ + p-diff. + d-pol.,2,0,0.0000
+DGauss,2,2,1.0000
+"6-31G(d,p), Stuttgart Effective Core Potentials with f-polarization function",2,0,0.0000
+"6-311G(d,p), def2-QZVPP",2,0,0.0000
+"6-311++g(2d,p)",2,0,0.0000
+DZVP-MOLOPT-GTH,2,0,0.0000
+Wachters-Hay,2,0,0.0000
+"18s,10p,6d/[6s,3p,3d]",2,1,0.5000
+"18s,13p,7d,3f,2g,1h/[8s,7p,5d,3f,2g,1h]",2,1,0.5000
+"18s,13p,6d,2f,1g/[8s,7p,4d,2f,1g]",2,1,0.5000
+ECP60MWB + 2f,2,1,0.5000
+Stuttgart-Dresden effective core potential for S,1,0,0.0000
+adapted basis set for Sm,1,0,0.0000
+"6-311++G(2df, 2p)",1,0,0.0000
+valence triple-zeta Gaussian basis sets,1,0,0.0000
+plane wave basis sets,1,0,0.0000
+cc-pVnZ,1,0,0.0000
+triple-ζ plus polarization,1,0,0.0000
+X2C-TZVPPall-2c,1,1,1.0000
+X2C-SVPall-2c,1,1,1.0000
+X2C-QZVPall-2c,1,1,1.0000
+"6-31G(d',p')",1,0,0.0000
+MWB60,1,0,0.0000
+"6-311++G(d,p), SDD",1,0,0.0000
+triple-ζ Slater-type orbital TZ2P,1,0,0.0000
+jul-cc-pVTZ,1,0,0.0000
+def-SV(P) for all other atoms,1,0,0.0000
+def2-SVPD for sulfur,1,0,0.0000
+10-mdf 6s5p3d for zinc,1,0,0.0000
+Dyall-VTZ,1,0,0.0000
+uIGLO-II,1,0,0.0000
+uIGLO-III,1,0,0.0000
+ECP46MWB-AVTZ,1,0,0.0000
+f-augmented SDD(ECP),1,0,0.0000
+"def2-TZVP[Br,Si,K,B]",1,0,0.0000
+"def2-SVP[N,C,H]",1,0,0.0000
+LANL2DZ with an additional f-polarization,1,0,0.0000
+"double-ς for C, N, O, H",1,0,0.0000
+uncontracted triple-ς for Cu,1,0,0.0000
+ECP10MDF (8s7p6d)/[6s5p3d],1,0,0.0000
+ECP28MDF_VQZ,1,0,0.0000
+def2-TZVP(-f)-ZORA,1,0,0.0000
+Stuttgart/Dresden 1997 SDD,1,1,1.0000
+aug-cc-PVDZ-pp,1,0,0.0000
+6-31(G),1,1,1.0000
+SARC/J decontracted def2/J auxiliary basis,1,1,1.0000
+N07D,1,0,0.0000
+def2-TZVDP,1,0,0.0000
+Ahlrichs-TZV,1,0,0.0000
+"TZP, TZ2P",1,0,0.0000
+Lanl2dz+f (1.350),1,0,0.0000
+"6-311++G(d,2p)",1,0,0.0000
+6-31G(d′),1,0,0.0000
+LanL2DZ with f-polarization for Ru,1,1,1.0000
+LanL2DZ with d-polarization for Cl,1,1,1.0000
+4-31G(d) for remaining elements,1,1,1.0000
+SDD effective potentials,1,0,0.0000
+LAL2DZ for Ru,1,0,0.0000
+"6-311G* for C, H, and P",1,0,0.0000
+6-311G*+,1,0,0.0000
+6-31G*+,1,0,0.0000
+ECP60MWB (8s7p6d2f1g)/[6s5p3d2f1g],1,0,0.0000
+"6-311++G(2d,2p), cc-pVTZ",1,0,0.0000
+SDD (for I),1,0,0.0000
+cc-pVTZ (for the other atoms),1,0,0.0000
+SBK,1,0,0.0000
+triplet-zeta,1,0,0.0000
+Def2-SD,1,0,0.0000
+"BS(2,1)",1,0,0.0000
+"6-31G(d,p); SDD",1,0,0.0000
+all-electron triple-basis set,1,1,1.0000
+"6-31+G(d,p)(SDD for Pd)",1,0,0.0000
+"2df,2pd",1,0,0.0000
+midi!,1,1,1.0000
+ECP80MWB,1,0,0.0000
+"def2-TZV/P, def2-TZVP, aug-cc-pVTZ-Jmod, def2-TZVP(-f)",1,0,0.0000
+AhlrichsVTZ+P; Stuttgart RSC 1997 for Pd,1,0,0.0000
+ZORA-def2-TZVP(-f),1,0,0.0000
+triple-z quality basis set with polarization functions,1,0,0.0000
+"6-311++G(2d,p), 6-311++G(3df,3pd)",1,0,0.0000
+III (other elements),1,0,0.0000
+IV (Mn),1,0,0.0000

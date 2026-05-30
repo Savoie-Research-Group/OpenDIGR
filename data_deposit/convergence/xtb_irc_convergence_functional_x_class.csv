@@ -1,0 +1,1356 @@
+functional,element_class,n_reactions,n_converged,convergence_rate
+(no functional listed),main_group_only,164120,19681,0.1199
+(no functional listed),4d_TM,44758,10689,0.2388
+(no functional listed),3d_TM,36249,6133,0.1692
+B3LYP,main_group_only,29968,5071,0.1692
+M06-2X,main_group_only,18455,1713,0.0928
+(no functional listed),5d_TM,15368,5300,0.3449
+M06,main_group_only,13007,3173,0.2439
+B3LYP,4d_TM,12280,4053,0.3300
+B3LYP-D3,main_group_only,10753,1956,0.1819
+B3LYP,3d_TM,9904,2664,0.2690
+B3LYP-D3(BJ),main_group_only,9444,1097,0.1162
+ωB97X-D,main_group_only,9025,1426,0.1580
+B3LYP,no_xyz_data,8666,2439,0.2814
+M06,4d_TM,6381,2412,0.3780
+M06-L,main_group_only,4951,869,0.1755
+PBE0,main_group_only,4747,972,0.2048
+M06,no_xyz_data,4726,1597,0.3379
+B3LYP,5d_TM,4638,1420,0.3062
+B3LYP-D3,no_xyz_data,4408,933,0.2117
+M06,3d_TM,4055,1412,0.3482
+M06-2X,no_xyz_data,4052,199,0.0491
+M06,5d_TM,3837,1629,0.4246
+ωB97X-D,no_xyz_data,3807,372,0.0977
+BP86,main_group_only,3433,509,0.1483
+M06-L,4d_TM,3421,736,0.2151
+PBE0,4d_TM,3366,923,0.2742
+B3LYP-D3(BJ),no_xyz_data,3350,876,0.2615
+B3PW91,main_group_only,2976,327,0.1099
+M06-L,no_xyz_data,2885,481,0.1667
+B3LYP-D3,4d_TM,2749,821,0.2987
+M06-L,3d_TM,2548,774,0.3038
+M06-2X,4d_TM,2508,581,0.2317
+ωB97X-D,4d_TM,2435,889,0.3651
+ωB97X-D,3d_TM,2277,479,0.2104
+B3LYP-D3,3d_TM,2079,568,0.2732
+BP86,4d_TM,2023,649,0.3208
+B3LYP-D3(BJ),4d_TM,1907,627,0.3288
+BP86,3d_TM,1876,505,0.2692
+PBE,main_group_only,1814,192,0.1058
+PBE0,no_xyz_data,1778,341,0.1918
+M06-D3,main_group_only,1667,503,0.3017
+M06-2X-D3,main_group_only,1665,77,0.0462
+B3LYP-D3(BJ),3d_TM,1626,565,0.3475
+D3,4d_TM,1395,240,0.1720
+PBE0,3d_TM,1380,207,0.1500
+B97-D,main_group_only,1328,167,0.1258
+B3LYP-D3,5d_TM,1288,290,0.2252
+B3PW91,3d_TM,1203,240,0.1995
+MN15,main_group_only,1201,322,0.2681
+TPSS-D3,main_group_only,1183,101,0.0854
+M06-2X,3d_TM,1177,218,0.1852
+TPSSh,main_group_only,1137,321,0.2823
+CAM-B3LYP,main_group_only,1114,45,0.0404
+B3PW91,4d_TM,1108,227,0.2049
+BP86,no_xyz_data,1106,166,0.1501
+OLYP,main_group_only,1072,72,0.0672
+(no functional listed),no_xyz_data,1015,322,0.3172
+ωB97X-D,5d_TM,969,92,0.0949
+PW6B95-D3,main_group_only,925,27,0.0292
+BP86-D3,main_group_only,883,240,0.2718
+TPSS,main_group_only,876,178,0.2032
+B97-D,4d_TM,833,131,0.1573
+B3PW91,5d_TM,828,363,0.4384
+B3LYP-D3(BJ),5d_TM,818,247,0.3020
+B3PW91,no_xyz_data,801,109,0.1361
+PBE,4d_TM,799,201,0.2516
+PBE0,5d_TM,797,240,0.3011
+M05-2X,main_group_only,796,54,0.0678
+M06-2X,5d_TM,783,21,0.0268
+(no functional listed),lanthanides,770,82,0.1065
+PBE,3d_TM,741,104,0.1404
+ωB97M-V,main_group_only,735,51,0.0694
+TPSSh,no_xyz_data,726,150,0.2066
+PBE0-D3(BJ),main_group_only,719,92,0.1280
+M06-L,5d_TM,688,72,0.1047
+"B3LYP, M06",4d_TM,685,297,0.4336
+PBE,5d_TM,684,96,0.1404
+PBE,no_xyz_data,640,37,0.0578
+PBE0-D3BJ,main_group_only,634,159,0.2508
+TPSSh,3d_TM,633,103,0.1627
+B3P86,main_group_only,619,68,0.1099
+TPSS,no_xyz_data,572,73,0.1276
+PBE0-D3,no_xyz_data,538,46,0.0855
+mPW1PW91,main_group_only,532,49,0.0921
+MP2,main_group_only,519,66,0.1272
+OPBE,3d_TM,504,190,0.3770
+BLYP,4d_TM,502,125,0.2490
+BP86,5d_TM,489,236,0.4826
+BP86-D3,no_xyz_data,486,132,0.2716
+BP86-D3,4d_TM,445,56,0.1258
+DLPNO-CCSD(T),main_group_only,427,18,0.0422
+TPSS,3d_TM,427,179,0.4192
+(no functional listed),actinides,426,78,0.1831
+ωB97X,main_group_only,422,4,0.0095
+B97-D3,main_group_only,408,39,0.0956
+PBE0-D3,4d_TM,397,141,0.3552
+PBEh-3c,main_group_only,393,59,0.1501
+PBE0-D3,main_group_only,390,116,0.2974
+OPBE,main_group_only,382,3,0.0079
+TPSS,4d_TM,379,145,0.3826
+BLYP-D3(BJ),main_group_only,375,9,0.0240
+BMK,main_group_only,375,169,0.4507
+UWB97XD,no_xyz_data,375,56,0.1493
+M06-D3,5d_TM,363,129,0.3554
+PBE0-D3(BJ),4d_TM,355,1,0.0028
+OLYP,3d_TM,353,73,0.2068
+B3PW91-D3,main_group_only,337,77,0.2285
+PW6B95,main_group_only,332,29,0.0873
+D3,main_group_only,327,26,0.0795
+BLYP,main_group_only,325,64,0.1969
+B97-D3,4d_TM,315,96,0.3048
+TPSSh,4d_TM,312,38,0.1218
+BP86-D3-BJDAMP,no_xyz_data,309,0,0.0000
+TPSSTPSS,main_group_only,307,60,0.1954
+M06-D3,3d_TM,303,137,0.4521
+M11-L,4d_TM,303,92,0.3036
+MN15,no_xyz_data,300,62,0.2067
+BP86-D3BJ,main_group_only,294,14,0.0476
+PBE-D3,no_xyz_data,293,0,0.0000
+BP86-D3(BJ),main_group_only,291,72,0.2474
+B97-D,no_xyz_data,289,20,0.0692
+DLPNO-CCSD(T),no_xyz_data,282,33,0.1170
+CCSD(T),main_group_only,278,120,0.4317
+UM06,main_group_only,278,88,0.3165
+M06-D3,no_xyz_data,276,48,0.1739
+RB-P86,main_group_only,270,14,0.0519
+D3BJ,main_group_only,269,32,0.1190
+D3BJ,3d_TM,269,92,0.3420
+RPBE1PBE,main_group_only,262,0,0.0000
+M11,main_group_only,257,16,0.0623
+B97-D,3d_TM,257,150,0.5837
+MN15,3d_TM,255,189,0.7412
+B3LYP-D,5d_TM,254,42,0.1654
+UM06,3d_TM,251,130,0.5179
+PBE-D3,main_group_only,249,50,0.2008
+B3PW91-D3,no_xyz_data,248,12,0.0484
+MPW1K,3d_TM,245,39,0.1592
+B97X-D,main_group_only,243,191,0.7860
+PBE0-D3BJ,3d_TM,241,0,0.0000
+"B3LYP, M11-L",4d_TM,238,20,0.0840
+TPSS-D3,no_xyz_data,236,29,0.1229
+HSE06,no_xyz_data,234,0,0.0000
+BMK,4d_TM,231,121,0.5238
+PBE0-D3BJ,no_xyz_data,231,63,0.2727
+PBE+MBD@rsSCS,main_group_only,230,0,0.0000
+PBE+D3,main_group_only,230,0,0.0000
+BB95,3d_TM,228,0,0.0000
+B3LYP-D,4d_TM,228,111,0.4868
+Grimme’s D3,4d_TM,226,145,0.6416
+"BP86, wB97X-D",main_group_only,226,20,0.0885
+PBE-D3,4d_TM,226,36,0.1593
+M05-2X,4d_TM,224,94,0.4196
+ꞷB97X-D,no_xyz_data,222,0,0.0000
+HF-LYP,main_group_only,221,42,0.1900
+B97-D3,no_xyz_data,214,0,0.0000
+UPBE1PBE-D3,main_group_only,213,0,0.0000
+BLYP,3d_TM,210,61,0.2905
+HF,main_group_only,209,3,0.0144
+B3P86,3d_TM,207,11,0.0531
+BP86-D3,5d_TM,206,136,0.6602
+OLYP,no_xyz_data,202,130,0.6436
+BH&HLYP,main_group_only,202,1,0.0050
+PWPB95,no_xyz_data,198,109,0.5505
+TPSSh-D3bj,no_xyz_data,197,0,0.0000
+MN15-L,3d_TM,197,188,0.9543
+CCSD(T),4d_TM,196,94,0.4796
+B2PLYP,main_group_only,196,10,0.0510
+PBE0-D3(BJ),3d_TM,196,45,0.2296
+M06-D3,4d_TM,196,65,0.3316
+BMK,3d_TM,191,3,0.0157
+revM06-L,3d_TM,191,188,0.9843
+PW6B95,no_xyz_data,188,25,0.1330
+B97-3c,no_xyz_data,186,29,0.1559
+B3LYP+D3BJ,4d_TM,182,0,0.0000
+MP2,no_xyz_data,181,21,0.1160
+UM06-2X,main_group_only,181,57,0.3149
+BB1K,4d_TM,178,0,0.0000
+MN15-L,5d_TM,174,126,0.7241
+M06-2X-D3,no_xyz_data,174,2,0.0115
+B97-D3,5d_TM,173,131,0.7572
+"BP86, BP86-D3",main_group_only,173,66,0.3815
+M11-L,main_group_only,172,32,0.1860
+B3LYP-D2,no_xyz_data,168,0,0.0000
+B97-1,4d_TM,166,0,0.0000
+PBE-D2,5d_TM,165,126,0.7636
+"B3LYP, M06-L",no_xyz_data,165,120,0.7273
+PWPB95-D4,main_group_only,164,0,0.0000
+B3PW91',3d_TM,162,0,0.0000
+BLYP,no_xyz_data,162,14,0.0864
+TPSSh-D3,3d_TM,160,62,0.3875
+M06L-D3,main_group_only,159,17,0.1069
+PBE-D3,5d_TM,158,126,0.7975
+BP86-D3BJ,3d_TM,158,0,0.0000
+CAM-B3LYP,no_xyz_data,158,9,0.0570
+"B3LYP, BMK, TPSS, BP86, M06",main_group_only,157,136,0.8662
+M06-GD3,main_group_only,157,51,0.3248
+MN12SX,3d_TM,157,0,0.0000
+MN12L,3d_TM,157,0,0.0000
+BLYP-D3,no_xyz_data,154,123,0.7987
+M06-L-D3,no_xyz_data,154,123,0.7987
+BLYP-D3BJ,5d_TM,152,0,0.0000
+B3LYP+D3,main_group_only,152,0,0.0000
+"BP, M06",main_group_only,151,0,0.0000
+MN15-L,4d_TM,150,77,0.5133
+TPSSh-D0,3d_TM,150,62,0.4133
+PBE0-D3(BJ),5d_TM,150,0,0.0000
+D3,5d_TM,148,111,0.7500
+TPSSh-D3BJ,main_group_only,147,11,0.0748
+B2PLYP-D3(BJ),main_group_only,147,29,0.1973
+BP86-D3,3d_TM,145,11,0.0759
+OPBE,no_xyz_data,145,0,0.0000
+MN15,4d_TM,144,61,0.4236
+ωB97M-V,no_xyz_data,144,21,0.1458
+TPSSTPSS-D3,5d_TM,142,126,0.8873
+"M06, ωB97X-D, B3LYP, B3PW91, HSE06, PBEh1PBE, TPSSh, TPSS, M06L",no_xyz_data,142,0,0.0000
+TPSS,5d_TM,142,2,0.0141
+TPSS-D2,main_group_only,141,0,0.0000
+DFT-D3,5d_TM,140,0,0.0000
+ωB97X-V,main_group_only,140,12,0.0857
+PBEPBE,main_group_only,139,55,0.3957
+TPSSTPSS,4d_TM,138,56,0.4058
+wB97X+50%D,main_group_only,135,3,0.0222
+MPW1K,main_group_only,135,0,0.0000
+B3PW91-D3,4d_TM,133,0,0.0000
+"B3PW91, M06",main_group_only,130,41,0.3154
+M062,no_xyz_data,130,127,0.9769
+RM062X,main_group_only,130,16,0.1231
+"BP86, B3LYP, BLYP, PBE",3d_TM,129,0,0.0000
+"PBE, PBE0",main_group_only,128,12,0.0938
+B97-2,3d_TM,127,0,0.0000
+MPWLYP1M,3d_TM,127,0,0.0000
+X3LYP,3d_TM,127,0,0.0000
+RM06,4d_TM,126,48,0.3810
+B97-D,5d_TM,126,3,0.0238
+M06L-D3,3d_TM,126,111,0.8810
+RB3LYP-D3,4d_TM,126,84,0.6667
+uB3LYP-D3,main_group_only,125,0,0.0000
+SCS-MP2,main_group_only,124,0,0.0000
+HF-LYP,3d_TM,123,58,0.4715
+mPW1PW91,3d_TM,121,111,0.9174
+D3(BJ),main_group_only,121,18,0.1488
+PBE-D3(BJ),main_group_only,120,7,0.0583
+BPW91,3d_TM,120,2,0.0167
+mPW1PW91,no_xyz_data,120,0,0.0000
+mPW1k,3d_TM,119,111,0.9328
+B2PLYP,5d_TM,118,38,0.3220
+B3PW91-D3,5d_TM,117,56,0.4786
+PW6B95-D3BJ,main_group_only,114,86,0.7544
+ωB97X,4d_TM,114,103,0.9035
+B97-D3,3d_TM,114,40,0.3509
+CAM-B3LYP-D3(BJ),main_group_only,114,7,0.0614
+B3LYP-D2,main_group_only,114,57,0.5000
+BLYP-D3(BJ),4d_TM,114,0,0.0000
+PW91,main_group_only,113,36,0.3186
+B3LYP-D2,3d_TM,113,2,0.0177
+revDSD-PBEP86,main_group_only,112,28,0.2500
+PBE0-D3BJ,5d_TM,112,58,0.5179
+PBE-D2,main_group_only,111,10,0.0901
+MP4(SDTQ),main_group_only,111,10,0.0901
+RI-DSD-BLYP,main_group_only,111,23,0.2072
+TPSS-D3BJ,main_group_only,110,0,0.0000
+B3PW91-D3(BJ),main_group_only,110,0,0.0000
+MPW1K,4d_TM,109,11,0.1009
+B3PW91-D3(BJ),5d_TM,109,50,0.4587
+M05,main_group_only,109,9,0.0826
+D4,main_group_only,108,28,0.2593
+mPW1K,main_group_only,108,0,0.0000
+"B3LYP, M06",5d_TM,107,0,0.0000
+BPW91,4d_TM,107,13,0.1215
+B3P86,no_xyz_data,107,14,0.1308
+uB3LYP-D3,no_xyz_data,107,81,0.7570
+PBE-D3,3d_TM,106,0,0.0000
+"B3LYP, M11-L",main_group_only,106,81,0.7642
+DLPNO-CCSD(T),3d_TM,105,0,0.0000
+"M06-2X, TPSSTPSS",3d_TM,103,7,0.0680
+PBEh1PBE,no_xyz_data,103,0,0.0000
+UBHandHLYP,main_group_only,102,0,0.0000
+B3LYP+GD3BJ,main_group_only,101,7,0.0693
+PBE0-D3BJ,4d_TM,101,53,0.5248
+B3LYP-D,main_group_only,100,7,0.0700
+ωB97X-D3,main_group_only,100,26,0.2600
+LYP,5d_TM,99,0,0.0000
+PWPB95,main_group_only,99,4,0.0404
+BHandHLYP,main_group_only,98,6,0.0612
+ωB97X-2-D3(BJ),main_group_only,98,92,0.9388
+TPSS-D3(BJ),main_group_only,97,63,0.6495
+B3LYP-D4,main_group_only,97,0,0.0000
+M11,no_xyz_data,97,0,0.0000
+PBE0-D3(BJ),no_xyz_data,97,11,0.1134
+B97-1,main_group_only,97,24,0.2474
+"ωB97X-D, B3LYP, M06L",main_group_only,96,0,0.0000
+BMK-D3BJ,main_group_only,95,0,0.0000
+PW6B95-D3(BJ),main_group_only,95,8,0.0842
+PWPB95-D3(BJ),main_group_only,95,2,0.0211
+DF-CCSD(T),main_group_only,95,0,0.0000
+"PBE-D3, PBE0-D3, M06-2X",no_xyz_data,94,0,0.0000
+PW91,no_xyz_data,94,86,0.9149
+B3LYP-D,no_xyz_data,93,68,0.7312
+mPWB1K,main_group_only,93,0,0.0000
+M08-HX,main_group_only,92,0,0.0000
+BLYP-D3,main_group_only,92,27,0.2935
+"TPSS-D3, PW6B95-D3",main_group_only,91,0,0.0000
+BP86-D,4d_TM,90,83,0.9222
+M06-L-D3,main_group_only,90,14,0.1556
+"B3LYP-D3, M06-D3",main_group_only,89,5,0.0562
+RI-B97-D,main_group_only,89,0,0.0000
+r2-SCAN-3c,main_group_only,89,0,0.0000
+MN12SX,4d_TM,88,84,0.9545
+mPW1K,no_xyz_data,88,81,0.9205
+B3LYP-D,3d_TM,87,29,0.3333
+mPW1K,4d_TM,87,48,0.5517
+BLYP-D3,3d_TM,87,0,0.0000
+RM06L,main_group_only,87,0,0.0000
+DSD-BLYP D3(BJ),main_group_only,87,0,0.0000
+CAM-B3LYP,4d_TM,87,5,0.0575
+pw6b95d3,main_group_only,87,0,0.0000
+UM06-2X,no_xyz_data,86,0,0.0000
+"BP86, B3LYP, B3LYP-D3",main_group_only,85,5,0.0588
+PWBP95,main_group_only,85,7,0.0824
+M06-HF,main_group_only,85,0,0.0000
+M05-2X,5d_TM,84,72,0.8571
+(U)M06-2X,main_group_only,83,0,0.0000
+PW6B95,4d_TM,83,20,0.2410
+HSEH1PBE,main_group_only,83,0,0.0000
+DLPNO-CCSD(T),4d_TM,82,27,0.3293
+"B3LYP, X3LYP, M06, M06-2X, M06-L, t-HTCH, wB97X, wB97X-D, MPWKCIS1K, MPWB1K",main_group_only,82,23,0.2805
+BP86-D3BJ,no_xyz_data,81,0,0.0000
+B97-D2,4d_TM,81,0,0.0000
+ωB97M-V-D3(BJ),4d_TM,81,13,0.1605
+D4,3d_TM,81,77,0.9506
+ꞷB97XD,main_group_only,80,43,0.5375
+M06S2,main_group_only,80,43,0.5375
+"M06-2X, PBE-D3",main_group_only,79,1,0.0127
+"B3LYP-D3BJ, M06",4d_TM,79,14,0.1772
+"BP86, B3LYP, BLYP",main_group_only,79,0,0.0000
+B3LYP-D2,5d_TM,79,0,0.0000
+wB97XD-ultrafine,main_group_only,78,78,1.0000
+M06-ultrafine,main_group_only,78,78,1.0000
+BB1K,5d_TM,77,72,0.9351
+DSD-BLYP-D3,4d_TM,77,13,0.1688
+"BP86, M06",3d_TM,77,0,0.0000
+"B3LYP-D3, M06-L-D3, PBE0-D3, ωB97X-D",no_xyz_data,77,0,0.0000
+M06,lanthanides,76,6,0.0789
+PWPB95-D3,main_group_only,76,0,0.0000
+M05-2X,3d_TM,75,40,0.5333
+ωB97X-V,4d_TM,75,13,0.1733
+UM06,no_xyz_data,75,0,0.0000
+"BP86, ωB97xD",4d_TM,75,0,0.0000
+ωB97M-V,3d_TM,75,19,0.2533
+DF-PBED3BJ,3d_TM,74,0,0.0000
+BLYP,5d_TM,74,31,0.4189
+wB97XD4,main_group_only,74,17,0.2297
+CBS-APNO,main_group_only,73,0,0.0000
+CBS-QB3,main_group_only,73,0,0.0000
+UCCSD(T),main_group_only,73,0,0.0000
+M06-2X-D3,5d_TM,73,8,0.1096
+"M061, B3LYP",5d_TM,72,46,0.6389
+"B3LYP, B3LYP+D3",main_group_only,71,29,0.4085
+PWPB95-D4,no_xyz_data,71,0,0.0000
+PBE0-GD3+BJ,main_group_only,71,65,0.9155
+TPSS-GD3+BJ,main_group_only,71,65,0.9155
+RI-BP86,main_group_only,71,18,0.2535
+B3LYP,lanthanides,70,0,0.0000
+BHLYP,no_xyz_data,70,0,0.0000
+B3LYP[10],3d_TM,69,58,0.8406
+B3LYP[0],3d_TM,69,58,0.8406
+B3LYP[15],3d_TM,69,58,0.8406
+B3LYP[5],3d_TM,69,58,0.8406
+B2PLYP-D3,main_group_only,69,6,0.0870
+"B3LYP, M06",3d_TM,69,8,0.1159
+BP86+D3(BJ),4d_TM,68,62,0.9118
+M06L+D3,4d_TM,68,62,0.9118
+PBE0+D3(BJ),4d_TM,68,62,0.9118
+B3LYP+D3(BJ),4d_TM,68,62,0.9118
+"TPSS, M06-2X",3d_TM,67,52,0.7761
+"B3LYP, UB3LYP",3d_TM,67,0,0.0000
+"B3LYP, M06",main_group_only,67,24,0.3582
+DSD-PBEP86,5d_TM,67,16,0.2388
+Grimme’s dispersion correction (GD3-BJ),no_xyz_data,67,2,0.0299
+Grimme’s D3,main_group_only,67,8,0.1194
+"BP86, PBE",3d_TM,66,0,0.0000
+mPW1K,5d_TM,66,21,0.3182
+UM062X,main_group_only,66,0,0.0000
+BP,3d_TM,66,0,0.0000
+mPW2PLYPD,no_xyz_data,65,61,0.9385
+ωB97X,no_xyz_data,65,0,0.0000
+D3(BJ),3d_TM,65,63,0.9692
+RPBE,main_group_only,65,3,0.0462
+MN15-L,main_group_only,65,17,0.2615
+GD3BJ,main_group_only,65,0,0.0000
+RIJCOSX,4d_TM,65,0,0.0000
+B2PLYP-D3(BJ),4d_TM,65,11,0.1692
+"BP86, B3LYP, M06-2X",no_xyz_data,64,0,0.0000
+TPSS0,no_xyz_data,64,18,0.2812
+TPSSTPSS,3d_TM,64,64,1.0000
+M11-L,5d_TM,64,0,0.0000
+TPSS-D3(BJ),5d_TM,64,0,0.0000
+"PBE0, wB97XD, B3LYP-D3, TPSSh",main_group_only,63,0,0.0000
+UB3LYP-D3,main_group_only,63,48,0.7619
+MN12L,main_group_only,63,0,0.0000
+"PBE, PBE0, TPSS, TPSSh, M06",5d_TM,63,0,0.0000
+MN12-SX,main_group_only,63,0,0.0000
+MN12-L,main_group_only,63,0,0.0000
+N12-SX,main_group_only,63,0,0.0000
+ωB97X-D3,3d_TM,63,11,0.1746
+APFD,main_group_only,62,4,0.0645
+PBE-D3(BJ),no_xyz_data,62,0,0.0000
+"ωB97XD, PBE-GD3BJ, B3LYP-GD3BJ",3d_TM,62,19,0.3065
+B3LYP-GDB3J,3d_TM,61,0,0.0000
+MN12SX,main_group_only,61,0,0.0000
+CCSD(T),3d_TM,61,0,0.0000
+revTPSS,main_group_only,61,0,0.0000
+M11,5d_TM,61,17,0.2787
+"BP86, M06-L",4d_TM,61,14,0.2295
+PBE0-D3,3d_TM,60,0,0.0000
+BP86; M06; PBE0; B3PW91,4d_TM,60,0,0.0000
+B3PW91-D3(BJ),no_xyz_data,60,0,0.0000
+B3PW91*,3d_TM,60,38,0.6333
+BMK-D3(BJ),main_group_only,60,56,0.9333
+ωB97X-D3BJ,main_group_only,59,46,0.7797
+M11-L,no_xyz_data,58,25,0.4310
+UBLYP,no_xyz_data,58,11,0.1897
+"B3LYP, BP86",4d_TM,57,21,0.3684
+D3,3d_TM,56,6,0.1071
+Grimme's D3,main_group_only,56,26,0.4643
+BPBE-D3BJ,no_xyz_data,55,0,0.0000
+PBE-D4,no_xyz_data,55,0,0.0000
+"B3LYP, M06L",3d_TM,55,0,0.0000
+B2GP-PLYP,3d_TM,55,0,0.0000
+O3LYP,3d_TM,55,34,0.6182
+BMK,no_xyz_data,55,30,0.5455
+"r2SCAN-D3, ωB97X-D3",4d_TM,54,10,0.1852
+"B3LYP, M11-L",3d_TM,54,0,0.0000
+BHandHLYP,3d_TM,54,0,0.0000
+"B3LYP, ωB97X-D",main_group_only,54,9,0.1667
+"B3LYP, BMK, TPSS",main_group_only,54,50,0.9259
+PW6B95,3d_TM,54,14,0.2593
+DFT-D3,3d_TM,54,12,0.2222
+B3LYP-D3,lanthanides,53,22,0.4151
+M06S,3d_TM,53,0,0.0000
+BLYP-D,main_group_only,53,0,0.0000
+BHandHLYP,no_xyz_data,53,2,0.0377
+"M06-2X, ωB97XD",3d_TM,53,32,0.6038
+"M06, RM06",4d_TM,53,21,0.3962
+B3LYP*,no_xyz_data,52,0,0.0000
+DSD-PBE96-NL,main_group_only,52,27,0.5192
+B3LYP5-NL,main_group_only,52,27,0.5192
+TPSSh-D3(BJ),no_xyz_data,52,0,0.0000
+PW6B95-D3(BJ),no_xyz_data,52,50,0.9615
+LC-ωPBE,main_group_only,52,0,0.0000
+UBP86,no_xyz_data,52,15,0.2885
+B3,main_group_only,52,12,0.2308
+B3PW91-D,no_xyz_data,51,12,0.2353
+TPSS-D3,3d_TM,51,2,0.0392
+"M06-2X, B3LYP-D3, B3PW91-D3, B97D-D3, BLYP-D3, BP86-D3, PBE-D3, PBE0-D3, TPSS-D3, ωB97XD, X3LYP",main_group_only,51,15,0.2941
+D3BJ,no_xyz_data,50,26,0.5200
+r2SCAN-3c,main_group_only,50,0,0.0000
+D-BP86,main_group_only,50,38,0.7600
+TPSSh-D3(BJ),main_group_only,50,0,0.0000
+tHCTHhyb,main_group_only,50,0,0.0000
+N12SX,main_group_only,50,0,0.0000
+ωB97,main_group_only,50,0,0.0000
+HISSbPBE,main_group_only,50,0,0.0000
+M06-HF,5d_TM,50,7,0.1400
+SAPT2+(3)dMP2,main_group_only,50,0,0.0000
+B2PLYP-D,4d_TM,49,39,0.7959
+"B3LYP-D3, B3LYP-D3BJ",main_group_only,49,35,0.7143
+UPBE0,no_xyz_data,49,0,0.0000
+B3LYP-GD3(BJ),main_group_only,49,15,0.3061
+"B3LYP, M06-2X",main_group_only,49,0,0.0000
+BPW91,main_group_only,49,6,0.1224
+BP86,lanthanides,48,0,0.0000
+UM06,lanthanides,48,0,0.0000
+UBP86,lanthanides,48,0,0.0000
+UM06,5d_TM,48,2,0.0417
+UM06-D3,5d_TM,48,2,0.0417
+PW91,4d_TM,48,31,0.6458
+DSDPBEP86-D3BJ,no_xyz_data,48,0,0.0000
+B3LYP-D3*,no_xyz_data,48,0,0.0000
+Grimme's dispersion corrections with Becke-Johnson damping,main_group_only,48,0,0.0000
+B3LYP-D3(0),main_group_only,47,0,0.0000
+B3PW91,lanthanides,47,6,0.1277
+w97XD,main_group_only,47,0,0.0000
+BP86-D3(BJ),3d_TM,47,5,0.1064
+"B3LYP-D3(BJ), M06",main_group_only,47,22,0.4681
+Grimme D3,3d_TM,46,0,0.0000
+B97,main_group_only,46,0,0.0000
+BP,4d_TM,46,0,0.0000
+B(C6F5)3,main_group_only,46,0,0.0000
+LC-BP86,main_group_only,46,0,0.0000
+CAM-B3LYP,3d_TM,45,17,0.3778
+B97XD,main_group_only,45,19,0.4222
+BP86(D3BJ),main_group_only,45,0,0.0000
+DFT-D3,4d_TM,45,0,0.0000
+RM06,3d_TM,45,27,0.6000
+B3LYP*,main_group_only,45,21,0.4667
+mPBE,main_group_only,45,0,0.0000
+B1LYP,main_group_only,45,0,0.0000
+Grimme D3,main_group_only,45,0,0.0000
+MP4,4d_TM,45,0,0.0000
+TPSS-D3BJ,no_xyz_data,44,0,0.0000
+O3LYP,no_xyz_data,44,15,0.3409
+M052X-D3,no_xyz_data,44,0,0.0000
+MO6,main_group_only,44,6,0.1364
+"B3LYP-D3(BJ), ωB97X-D",3d_TM,44,10,0.2273
+ωB97M-V-D3BJ,main_group_only,44,0,0.0000
+B3LYP+D3BJ,main_group_only,44,0,0.0000
+ωB97X-D3,no_xyz_data,44,0,0.0000
+B3LYP-D3,actinides,43,6,0.1395
+RI-MP2,main_group_only,43,0,0.0000
+"PBE0, PW6B95",main_group_only,43,0,0.0000
+BPW91*,main_group_only,43,21,0.4884
+BP86+D3,main_group_only,43,30,0.6977
+M05-2X,no_xyz_data,43,0,0.0000
+M06-2X-GD3,main_group_only,43,0,0.0000
+PBEPBE,no_xyz_data,43,21,0.4884
+"B3LYP, BP86",main_group_only,43,37,0.8605
+X3LYP,4d_TM,43,43,1.0000
+mPW1PW91,4d_TM,43,11,0.2558
+"B3LYP, M06-D3",4d_TM,42,11,0.2619
+RPBE,4d_TM,42,27,0.6429
+D3(ABC),main_group_only,42,0,0.0000
+CAM-B3LYP-D3,4d_TM,42,5,0.1190
+UBP86,3d_TM,42,0,0.0000
+D3-correction,4d_TM,42,21,0.5000
+UBP86+D3BJ,3d_TM,42,0,0.0000
+PW6B95D3,main_group_only,41,0,0.0000
+"PBE0, B3LYP, B3PW91, M06L, B97D3, M062X, wB97XD",3d_TM,41,35,0.8537
+RI-PBE-D3BJ,no_xyz_data,41,0,0.0000
+(U)B3LYP,no_xyz_data,41,0,0.0000
+mPW1PW91,5d_TM,41,22,0.5366
+"M06, B3-LYP",main_group_only,41,33,0.8049
+"B3LYP-D3, M06L, M11-L",main_group_only,40,0,0.0000
+MN15,5d_TM,40,2,0.0500
+"BHandH, M06",5d_TM,40,0,0.0000
+RI-PWPB95-D3(BJ),main_group_only,40,0,0.0000
+TPSSH-D3BJ,3d_TM,39,0,0.0000
+"TPSS-D3, BJ-damped DFT-D3, PW6B95-D3",main_group_only,39,0,0.0000
+TPSSh,5d_TM,39,0,0.0000
+RI-BLYP-D3,3d_TM,39,0,0.0000
+BLYP-D2,3d_TM,39,0,0.0000
+DSD-PBEP86,main_group_only,39,0,0.0000
+M06-SMD,4d_TM,39,2,0.0513
+B97-3c,main_group_only,38,0,0.0000
+DLPNO-PWPB95,main_group_only,38,0,0.0000
+uPBE0,main_group_only,38,0,0.0000
+not specified,main_group_only,38,30,0.7895
+M11-L,3d_TM,38,15,0.3947
+ωB97X-2,main_group_only,38,0,0.0000
+uB3LYP-D3(BJ),main_group_only,38,0,0.0000
+uM062X-D3,main_group_only,38,0,0.0000
+RM06-2X,main_group_only,37,0,0.0000
+MPW1B95,no_xyz_data,37,22,0.5946
+M06-2X(D3),no_xyz_data,37,0,0.0000
+B3LYP-B3(BJ),4d_TM,37,10,0.2703
+ɷB97X-D,no_xyz_data,37,0,0.0000
+TPSS-D3(BJ),3d_TM,37,0,0.0000
+"MP2, MP3, MP4(DQ)",main_group_only,36,0,0.0000
+RPBE1PBE,4d_TM,36,0,0.0000
+B3PW91-D3,3d_TM,36,0,0.0000
+M06L-GD3,main_group_only,36,0,0.0000
+"M06-2X, mPW1PW91",main_group_only,36,2,0.0556
+RI-B97-D,no_xyz_data,35,11,0.3143
+ωB97X,5d_TM,35,6,0.1714
+RM06,5d_TM,35,0,0.0000
+M06-L-D3,5d_TM,35,0,0.0000
+B3LYP*,4d_TM,35,0,0.0000
+SCS-MP2,no_xyz_data,35,0,0.0000
+ωB97M-V,4d_TM,35,12,0.3429
+PBE0+GD3,5d_TM,35,0,0.0000
+wB97XD-D2,main_group_only,35,8,0.2286
+uM06,no_xyz_data,34,24,0.7059
+"B3LYP, mPW1PW91",main_group_only,34,1,0.0294
+LYP,main_group_only,34,30,0.8824
+ωB97XD; PBE,4d_TM,34,3,0.0882
+"B3LYP, ωB97X-D, M06-2X, PBE",no_xyz_data,34,30,0.8824
+MN15-L,no_xyz_data,34,0,0.0000
+MO62x,no_xyz_data,34,16,0.4706
+M06-UF,no_xyz_data,33,0,0.0000
+"ωB97XD, M06",main_group_only,33,0,0.0000
+Grimme's dispersion correction,5d_TM,33,0,0.0000
+PBE-D4,3d_TM,33,30,0.9091
+"PBE0, D3BJ",main_group_only,33,0,0.0000
+"B3LYP, D3",main_group_only,33,0,0.0000
+MPW1B95,main_group_only,33,0,0.0000
+N12,main_group_only,33,0,0.0000
+SOGGA11,main_group_only,33,0,0.0000
+WB97,main_group_only,33,0,0.0000
+MPW1P86,main_group_only,33,0,0.0000
+SOGGA11-X,main_group_only,33,0,0.0000
+KMLY,main_group_only,33,0,0.0000
+M06-L-D3,4d_TM,32,9,0.2812
+PBE06,5d_TM,32,0,0.0000
+uBLYP,3d_TM,32,2,0.0625
+uBP86,3d_TM,32,2,0.0625
+BLYP-D,4d_TM,32,5,0.1562
+B97-D(toluene),4d_TM,32,5,0.1562
+PBE-D,4d_TM,32,5,0.1562
+PBE0-D,4d_TM,32,5,0.1562
+B3PW91-D,4d_TM,32,5,0.1562
+PBEPBE-D3,main_group_only,32,20,0.6250
+"wB97xD, M06",main_group_only,32,0,0.0000
+B3LYP-dDsC,no_xyz_data,32,0,0.0000
+(U)M06-L,main_group_only,31,0,0.0000
+B3LYP; DFT-D3,3d_TM,31,25,0.8065
+HSE06,main_group_only,31,0,0.0000
+BP86-D3(BJ),4d_TM,31,0,0.0000
+"B3LYP, TPSS, M06",main_group_only,31,0,0.0000
+D2,5d_TM,31,1,0.0323
+M06-2X-D3,4d_TM,31,4,0.1290
+B2GP-PLYP,main_group_only,31,0,0.0000
+PBE1PBE-D3(BJ),no_xyz_data,31,0,0.0000
+HCTH,main_group_only,31,1,0.0323
+CASSCF,no_xyz_data,31,0,0.0000
+B2PLYP-D3,no_xyz_data,31,0,0.0000
+"BP86, M06",main_group_only,30,15,0.5000
+B97-D3(BJ),4d_TM,30,9,0.3000
+"B3LYP, M06-2X, B97D",no_xyz_data,30,0,0.0000
+R2SCAN-3c,5d_TM,30,12,0.4000
+PWPB95-D4,5d_TM,30,12,0.4000
+PWPB95,5d_TM,30,12,0.4000
+τ-HCTH hyb.,main_group_only,30,0,0.0000
+X3LYP,main_group_only,30,0,0.0000
+SOGGA11X,main_group_only,30,0,0.0000
+LC-ωHPBE,main_group_only,30,0,0.0000
+PBEh1PBE,main_group_only,30,0,0.0000
+O3LYP,main_group_only,30,0,0.0000
+"M06, M06-2X",main_group_only,30,29,0.9667
+MN12-L,4d_TM,30,0,0.0000
+"M06, M06-D3",5d_TM,30,0,0.0000
+M06-D3(0),main_group_only,30,0,0.0000
+not specified,5d_TM,30,27,0.9000
+B97D4,4d_TM,30,0,0.0000
+PWP91,4d_TM,30,9,0.3000
+SCS-RI-MP2,main_group_only,29,0,0.0000
+"B3LYP, MN12-L",4d_TM,29,0,0.0000
+ωB97M-D4,main_group_only,29,0,0.0000
+BH&HLYP,3d_TM,29,0,0.0000
+Becke,4d_TM,29,11,0.3793
+Perdew,4d_TM,29,11,0.3793
+D3(BJ),4d_TM,29,11,0.3793
+DF-PBE,main_group_only,29,0,0.0000
+MO6,4d_TM,29,0,0.0000
+D3-B3LYP,no_xyz_data,29,0,0.0000
+B3PW91-D3BJ,4d_TM,29,26,0.8966
+D3,no_xyz_data,28,1,0.0357
+M06ii,4d_TM,28,24,0.8571
+B3LYP-D3',4d_TM,28,0,0.0000
+PBE1PBE-D3,main_group_only,28,20,0.7143
+B3LYP-D3(bj),main_group_only,28,5,0.1786
+N12,4d_TM,28,0,0.0000
+ROMP2,no_xyz_data,28,0,0.0000
+B-PW91,main_group_only,28,0,0.0000
+⍵B97XD,main_group_only,28,0,0.0000
+M0625,5d_TM,28,28,1.0000
+"B3-LYP, M06",main_group_only,28,0,0.0000
+"BP86, B3LYP, PBEPBE, B3PW91, B97D, M06, M06-L",3d_TM,28,0,0.0000
+M064,4d_TM,27,9,0.3333
+PWPB95-D3-(BJ),main_group_only,27,0,0.0000
+M0611,main_group_only,27,8,0.2963
+MPWB95,main_group_only,27,0,0.0000
+UOPBE,no_xyz_data,27,0,0.0000
+"B3LYP, BPW91",4d_TM,27,23,0.8519
+DSD-PBEB95-D3BJ,4d_TM,27,22,0.8148
+B3P86,4d_TM,27,9,0.3333
+TPSS-D3,4d_TM,27,25,0.9259
+B3LYP-D2,4d_TM,27,0,0.0000
+PBEh-3c,4d_TM,27,12,0.4444
+B3LYP+D,4d_TM,27,0,0.0000
+B2GP-PLYP-D,main_group_only,27,0,0.0000
+B3LYP*,3d_TM,26,0,0.0000
+B3LYP-D4,4d_TM,26,4,0.1538
+"M06, B3LYP",4d_TM,26,24,0.9231
+uM06L-d3,main_group_only,26,0,0.0000
+OLYP,4d_TM,26,0,0.0000
+M0620,main_group_only,26,0,0.0000
+"PBE0, ωB97xD",4d_TM,26,0,0.0000
+HF-LYP,no_xyz_data,26,0,0.0000
+RPBE,no_xyz_data,26,0,0.0000
+HF-PBE,no_xyz_data,26,0,0.0000
+ωB97X-D,lanthanides,26,6,0.2308
+ωB97X,3d_TM,26,2,0.0769
+GD3BJ,4d_TM,25,0,0.0000
+mPW91PW91,4d_TM,25,0,0.0000
+M062,main_group_only,25,10,0.4000
+(U)PBE0-D3(BJ),3d_TM,25,23,0.9200
+(U)PBE0,3d_TM,25,23,0.9200
+ωB97X-D1,5d_TM,25,0,0.0000
+M06-SMD,3d_TM,25,0,0.0000
+M06L-D3,4d_TM,25,25,1.0000
+BB1K,main_group_only,25,0,0.0000
+revDSD-PBEP86-D3,no_xyz_data,25,21,0.8400
+mPW1k,4d_TM,25,0,0.0000
+ωB97X-D2,3d_TM,24,0,0.0000
+UB3LYP-GD3BJ,main_group_only,24,0,0.0000
+ZORA-BP86-D3(BJ),main_group_only,24,0,0.0000
+scLH22t,main_group_only,24,0,0.0000
+TPSS0-D4,main_group_only,24,0,0.0000
+PBE1PBE-GD3,main_group_only,24,7,0.2917
+wB97X-D10,main_group_only,24,7,0.2917
+B3LYP-D(BJ),main_group_only,24,7,0.2917
+B2PLYP-D3,5d_TM,24,2,0.0833
+"BP86, B97D, M06",4d_TM,24,0,0.0000
+PBEPBE,5d_TM,23,0,0.0000
+DFT-D3(BJ),main_group_only,23,2,0.0870
+ZORA-OLYP,main_group_only,23,0,0.0000
+GD3(BJ),main_group_only,23,22,0.9565
+TD-B3LYP,main_group_only,23,0,0.0000
+B97-1,5d_TM,23,0,0.0000
+UPBE0,3d_TM,23,5,0.2174
+UMPW1K,3d_TM,23,5,0.2174
+UM06-L,3d_TM,23,5,0.2174
+SCS-MP2,5d_TM,23,0,0.0000
+ωB97,3d_TM,23,9,0.3913
+B3PW91-d3,4d_TM,23,9,0.3913
+UωB97X-D,main_group_only,22,0,0.0000
+D3BJ,4d_TM,22,2,0.0909
+B97M-V,no_xyz_data,22,0,0.0000
+B3LYP+D3(BJ),5d_TM,22,0,0.0000
+PBE0-dDsC,4d_TM,22,9,0.4091
+ZORA-BLYP-D3(BJ),no_xyz_data,22,0,0.0000
+M06L-D3,no_xyz_data,22,0,0.0000
+revDSD-PBEP86-D3(BJ),no_xyz_data,22,0,0.0000
+PBE1PBE-D3BJ,main_group_only,22,17,0.7727
+M06X,4d_TM,22,0,0.0000
+revPBE,no_xyz_data,22,0,0.0000
+BLYP-D2,no_xyz_data,22,0,0.0000
+revPBE0,no_xyz_data,22,0,0.0000
+CAM-B3LYP,5d_TM,22,10,0.4545
+TPSS-D3(BJ),4d_TM,22,21,0.9545
+PW6B95-D3BJ,4d_TM,22,21,0.9545
+DFT-D3,no_xyz_data,22,7,0.3182
+CAM-B3LYP-D3(BJ),4d_TM,22,11,0.5000
+Grimme's D3,3d_TM,22,6,0.2727
+r2SCAN-3c,no_xyz_data,21,0,0.0000
+TPSS,lanthanides,21,0,0.0000
+CAM-B3LYP+GD3BJ,main_group_only,21,0,0.0000
+PBE0+GD3BJ,main_group_only,21,0,0.0000
+PBE+GD3BJ,main_group_only,21,0,0.0000
+B3LYP+GD3,main_group_only,21,0,0.0000
+BP,5d_TM,21,0,0.0000
+DFT-D3BJ,4d_TM,21,0,0.0000
+TPSSh-D3,5d_TM,21,0,0.0000
+B1B95,5d_TM,21,0,0.0000
+BMK,5d_TM,21,0,0.0000
+τ-HCTHh,5d_TM,21,0,0.0000
+Grimme’s DFT-D3,no_xyz_data,21,17,0.8095
+M06L(D3),4d_TM,21,0,0.0000
+BP86-D3(BJ),no_xyz_data,21,0,0.0000
+"B3LYP, M06, PW6B95",3d_TM,21,0,0.0000
+D4,4d_TM,21,19,0.9048
+UM11-L,3d_TM,21,20,0.9524
+UB3LYP+D3BJ,3d_TM,21,20,0.9524
+BP86+D3BJ,3d_TM,21,20,0.9524
+ROBP3LYP,main_group_only,21,0,0.0000
+TPSS; PW6B95-D4,main_group_only,21,0,0.0000
+PWPB95-D3(BJ),4d_TM,21,0,0.0000
+"M06, B3LYP",3d_TM,21,0,0.0000
+"B3LYP, B1LYP, B3PW91, BP86, CCSD(T)",3d_TM,20,19,0.9500
+BPW91*,3d_TM,20,14,0.7000
+ωB97M-D3BJ,main_group_only,20,0,0.0000
+PWPB95-D3BJ,main_group_only,20,0,0.0000
+BPBE,4d_TM,20,0,0.0000
+b97-2,main_group_only,20,16,0.8000
+B3LYP+D3,4d_TM,20,0,0.0000
+Grimme's D3(BJ),no_xyz_data,20,0,0.0000
+UMN15,no_xyz_data,20,0,0.0000
+UBP86,main_group_only,20,0,0.0000
+BOP (Becke-Tsuneda-Hirao),4d_TM,20,5,0.2500
+mPWB1K,no_xyz_data,19,10,0.5263
+BHandH,main_group_only,19,0,0.0000
+"B3LYP, B3LYP-D3, WB97xd",no_xyz_data,19,0,0.0000
+GD3(BJ),3d_TM,19,0,0.0000
+BMK-D3,4d_TM,19,0,0.0000
+mPWB1K,4d_TM,19,0,0.0000
+B3P,no_xyz_data,19,14,0.7368
+Truhlar's M06,3d_TM,19,12,0.6316
+"PBEh-3c, PW6B95-D3",main_group_only,19,10,0.5263
+CAM-B3LYP-D3,main_group_only,19,1,0.0526
+"TPSS, PW6B95",no_xyz_data,19,0,0.0000
+B3YLP,main_group_only,19,0,0.0000
+r²SCAN,main_group_only,19,5,0.2632
+"M06, b-p",main_group_only,18,18,1.0000
+CAM-B3LYP-D3BJ,main_group_only,18,8,0.4444
+B3LYP*-D3,3d_TM,18,0,0.0000
+PBE1PBE (PBE0),main_group_only,18,0,0.0000
+M061,5d_TM,18,17,0.9444
+U-PBE0,3d_TM,18,0,0.0000
+PBE04,3d_TM,18,0,0.0000
+TPSSh-D3,main_group_only,18,1,0.0556
+"TPSS, B3LYP-D3BJ",no_xyz_data,18,0,0.0000
+UM062X(D3),main_group_only,18,0,0.0000
+M062X(D3),main_group_only,18,0,0.0000
+PW91PW91,no_xyz_data,18,0,0.0000
+B3LYP; M06-2X,main_group_only,18,8,0.4444
+PBE05,3d_TM,18,13,0.7222
+"BP86, B97D, BLYP, B3LYP, PBE, PBE0, B97D3, ωB97x-D, M06, TPSS",3d_TM,18,0,0.0000
+r2SCAN-3c,3d_TM,18,7,0.3889
+STEOM-DLPNO-CCSD,3d_TM,18,7,0.3889
+BPV86,4d_TM,18,18,1.0000
+PBE-D3(BJ),4d_TM,18,10,0.5556
+"B3LYP-D3(BJ), M06, M06-L, PBE0-D3(BJ), TPSSh-D3(BJ), ωB97XD",main_group_only,18,0,0.0000
+"PBE, D3BJ",3d_TM,18,0,0.0000
+BLYP-D3BJ,3d_TM,18,0,0.0000
+"PBE, PBE-D3",main_group_only,18,3,0.1667
+(U)B3LYP-D3(BJ),3d_TM,17,0,0.0000
+"M06, B3LYP-D3BJ, M11-L, M06-2X",main_group_only,17,0,0.0000
+wB97XDS2,main_group_only,17,0,0.0000
+B3LYP* (15% exact exchange),3d_TM,17,0,0.0000
+G3MP2,main_group_only,17,6,0.3529
+G4MP2,main_group_only,17,6,0.3529
+"M06L, ωB97x, B3PW91",main_group_only,17,0,0.0000
+PBEh-3c,no_xyz_data,17,0,0.0000
+rM06L,no_xyz_data,17,15,0.8824
+"B3LYP, PBE0",3d_TM,17,1,0.0588
+B3LYP-D3(BJ); M06,main_group_only,17,12,0.7059
+LC-BLYP*,no_xyz_data,17,0,0.0000
+BLYP-D3(BJ),no_xyz_data,17,0,0.0000
+"B3-LYP, BP86",3d_TM,17,17,1.0000
+B88P86,3d_TM,17,0,0.0000
+UM06-2x,main_group_only,17,0,0.0000
+ωB97X-V,3d_TM,17,0,0.0000
+(U)M06-2X,4d_TM,17,0,0.0000
+(U)PBE0,4d_TM,17,0,0.0000
+"B3LYP, SMD-M06",5d_TM,17,4,0.2353
+PBE0-D3(BJ),lanthanides,16,0,0.0000
+M06-L-D3BJ,no_xyz_data,16,8,0.5000
+"B3LYP, ωB97XD",main_group_only,16,0,0.0000
+"BP86, M06",4d_TM,16,1,0.0625
+GTH-BLYP-q6,main_group_only,16,0,0.0000
+TPSS-D3BJ,3d_TM,16,11,0.6875
+MP2,5d_TM,16,12,0.7500
+"B3LYP, CAM-B3LYP",main_group_only,16,0,0.0000
+UωB97X-D,3d_TM,16,0,0.0000
+UB3LYP-D3,3d_TM,16,4,0.2500
+HCTH407,no_xyz_data,16,11,0.6875
+Perdew 86,3d_TM,16,0,0.0000
+Becke 88,3d_TM,16,0,0.0000
+MPW1K,no_xyz_data,16,0,0.0000
+"B3LYP, M06",no_xyz_data,16,0,0.0000
+LC-ωPBE,no_xyz_data,16,0,0.0000
+"PBE, B3-LYP",main_group_only,15,0,0.0000
+BMK-D3(BJ),no_xyz_data,15,0,0.0000
+DLPNO CCSD(T),no_xyz_data,15,0,0.0000
+PW6B95-D4,no_xyz_data,15,0,0.0000
+"B3LYP, M06-L",main_group_only,15,0,0.0000
+"PBE0, M06",main_group_only,15,0,0.0000
+PBE0-D4,4d_TM,15,0,0.0000
+rωb97xd,main_group_only,15,0,0.0000
+UM06-2X-D3,no_xyz_data,15,0,0.0000
+ω-B97XD6,main_group_only,15,13,0.8667
+DFT-D,3d_TM,15,0,0.0000
+"B3LYP, HF-LYP",main_group_only,15,0,0.0000
+M11,4d_TM,15,0,0.0000
+Grimme's version 3,no_xyz_data,15,0,0.0000
+B97-D3(BJ),main_group_only,15,0,0.0000
+B3P86-D2,main_group_only,15,10,0.6667
+TPSS; wB97X-D,3d_TM,15,0,0.0000
+"BP86, B3LYP, M06",no_xyz_data,15,0,0.0000
+TPSS0,main_group_only,15,0,0.0000
+XYGJ-OS,5d_TM,15,0,0.0000
+"M06, RM06",main_group_only,15,10,0.6667
+ωB97X-D5,main_group_only,15,0,0.0000
+MN12-L,no_xyz_data,15,0,0.0000
+"B3LYP, BP86",3d_TM,15,15,1.0000
+rev-DSD-PBEP86-D3(BJ),main_group_only,14,0,0.0000
+B3P86-D3,main_group_only,14,0,0.0000
+PW6B95-D3,no_xyz_data,14,0,0.0000
+"PBE, BP86, B3LYP, PBE0, M06, M06L",no_xyz_data,14,0,0.0000
+B3PW91,actinides,14,0,0.0000
+X3LYP,no_xyz_data,14,0,0.0000
+um062x,main_group_only,14,0,0.0000
+DSD-PBEP86-D3,main_group_only,14,0,0.0000
+B3PW91-GD3BJ,5d_TM,14,0,0.0000
+"B3PW91, M06",5d_TM,14,0,0.0000
+B3PW91-D3(BJ),4d_TM,14,5,0.3571
+M0611,5d_TM,14,3,0.2143
+PW6B95-D4,3d_TM,14,0,0.0000
+B3PW91-D3BJ,main_group_only,14,1,0.0714
+"B3LYP, BLYP, BP86",no_xyz_data,14,0,0.0000
+B97M-D3(BJ),main_group_only,14,0,0.0000
+PBE0-D,no_xyz_data,14,0,0.0000
+PBE0-dDsC,main_group_only,14,1,0.0714
+B3LYP-dDsC,main_group_only,14,1,0.0714
+"B3LYP, ωB97X-D",3d_TM,13,11,0.8462
+PW91,5d_TM,13,0,0.0000
+PBE-D,3d_TM,13,0,0.0000
+RI-DSD-PBEP86/2013-D3(BJ),main_group_only,13,0,0.0000
+LYP,4d_TM,13,0,0.0000
+PNO-LCCSD(T),main_group_only,13,0,0.0000
+"M06, B3LYP",main_group_only,13,0,0.0000
+BVP86,3d_TM,13,0,0.0000
+M06-2X-D3,3d_TM,13,0,0.0000
+revM06-L,no_xyz_data,13,13,1.0000
+B3PW91-GD3BJ,main_group_only,13,0,0.0000
+rm062x,main_group_only,13,0,0.0000
+"PBE0, m062x",main_group_only,13,13,1.0000
+HSE06,3d_TM,13,0,0.0000
+DSD-PBE96-NL,4d_TM,13,0,0.0000
+RωB97X-D,no_xyz_data,13,0,0.0000
+MP2,4d_TM,13,0,0.0000
+revDSD-PBEP86-D4,no_xyz_data,13,0,0.0000
+BLYP-D3(BJ),5d_TM,12,2,0.1667
+"B3-LYP, M06-2x",main_group_only,12,0,0.0000
+M052X-D3,main_group_only,12,0,0.0000
+RI-B2PLYP,main_group_only,12,0,0.0000
+B3LYP*-D2,4d_TM,12,0,0.0000
+M06-2X(D3),main_group_only,12,0,0.0000
+"B3LYP-D3, TPSS-D3, M06, M06-L, CAM-B3LYP",3d_TM,12,0,0.0000
+wB97,3d_TM,12,0,0.0000
+B2G-PPLYP,3d_TM,12,0,0.0000
+M11,3d_TM,12,0,0.0000
+B2T-PLYP,3d_TM,12,0,0.0000
+B2K-PLYP,3d_TM,12,0,0.0000
+UωB97XD,no_xyz_data,12,0,0.0000
+TPSS-D3(BJ),actinides,12,0,0.0000
+PW6B95-D3(BJ),actinides,12,0,0.0000
+RPA,no_xyz_data,12,0,0.0000
+"M06L, TPSSH, OPBE",3d_TM,12,0,0.0000
+B97-2,no_xyz_data,12,0,0.0000
+BP86-D,main_group_only,12,12,1.0000
+PBE1PBE-D3BJ,3d_TM,12,0,0.0000
+TPSSTPSS-D3BJ,3d_TM,12,0,0.0000
+"B3LYP, ωB97X-D",no_xyz_data,12,0,0.0000
+Becke 88 exchange with the Perdew 86 correlation,3d_TM,12,0,0.0000
+MPWLYP1M,no_xyz_data,12,10,0.8333
+B2GP-PLYP,no_xyz_data,12,10,0.8333
+PBE2,no_xyz_data,12,10,0.8333
+M05,no_xyz_data,12,10,0.8333
+BB1K,no_xyz_data,12,10,0.8333
+PBEh1PBE,3d_TM,12,0,0.0000
+UωB97x-D,no_xyz_data,12,0,0.0000
+TPSSh-D3BJ,no_xyz_data,12,0,0.0000
+RPBE1PBE,5d_TM,12,0,0.0000
+M06L5,3d_TM,12,4,0.3333
+"PBE, CAM-B3LYP-D3",4d_TM,11,0,0.0000
+PW6B95-D4,main_group_only,11,0,0.0000
+τ-HCTHhyb,main_group_only,11,0,0.0000
+D3(0),main_group_only,11,7,0.6364
+"B3LYP-D3(BJ), M06",4d_TM,11,0,0.0000
+M06-L-D3,3d_TM,11,11,1.0000
+uwb97xd,main_group_only,11,0,0.0000
+PBE-D3(BJ),3d_TM,11,7,0.6364
+"B3LYP, M06, B97D, SCS-MP2",4d_TM,11,0,0.0000
+TPSSTPSS,5d_TM,11,0,0.0000
+Vosko-Wilk-Nusair,4d_TM,11,11,1.0000
+PW91,3d_TM,11,2,0.1818
+PBE1W-D3,main_group_only,11,0,0.0000
+"B3LYP, wb97xd",main_group_only,11,0,0.0000
+M06-2X,lanthanides,11,0,0.0000
+D3(BJ)-B3LYP,main_group_only,11,0,0.0000
+"BP86, B3LYP",main_group_only,11,0,0.0000
+PW6B95-D3BJ,3d_TM,11,0,0.0000
+"mPW1K, M06-L, BP86",4d_TM,11,0,0.0000
+M06-LS,main_group_only,11,0,0.0000
+wB97X-D3BJ,main_group_only,11,0,0.0000
+TPSSHS,main_group_only,11,0,0.0000
+TPPSS,main_group_only,11,0,0.0000
+LYP,3d_TM,11,7,0.6364
+MP4(SDQ),main_group_only,11,7,0.6364
+"PBE0, PWPB95",no_xyz_data,11,0,0.0000
+BHLYP-D3,main_group_only,11,0,0.0000
+"B3LYP, B3LYP-D3BJ",3d_TM,11,7,0.6364
+B2PLYPD,main_group_only,11,0,0.0000
+UB2PLYPD,main_group_only,11,0,0.0000
+PBEh-3c,5d_TM,11,1,0.0909
+BP,no_xyz_data,11,0,0.0000
+BLYP*,3d_TM,11,0,0.0000
+"M06, PBE0, PBE0-D3, wb97XD",main_group_only,10,0,0.0000
+B3LYP-D3(BJ); M06,4d_TM,10,0,0.0000
+"ωb97xd, M062X",main_group_only,10,6,0.6000
+"ωB97xd, B3LYP, TPSSh, M06-2X",main_group_only,10,0,0.0000
+B97-3c,3d_TM,10,0,0.0000
+"PBE0, PBE1PBE",main_group_only,10,0,0.0000
+"UM05, UM06-2X",main_group_only,10,0,0.0000
+B3LYP+D3(BJ),main_group_only,10,0,0.0000
+𝜔B97M-V,main_group_only,10,0,0.0000
+B3LYP-D3a,main_group_only,10,3,0.3000
+M064,no_xyz_data,10,0,0.0000
+B3LYP+D3(BJ),3d_TM,10,8,0.8000
+TPSSh-D3(BJ),3d_TM,10,0,0.0000
+RM06,main_group_only,10,7,0.7000
+M062,5d_TM,10,0,0.0000
+D3-BJ,5d_TM,10,0,0.0000
+BHHLYP,no_xyz_data,10,0,0.0000
+B2PLYP-D3BJ,no_xyz_data,10,6,0.6000
+PW6B95-D3BJ,no_xyz_data,10,6,0.6000
+"B3LYP, B3LYP-D3, M06-2X",main_group_only,10,0,0.0000
+B2PLYP,4d_TM,10,0,0.0000
+UTPSSH,no_xyz_data,10,9,0.9000
+RTPSSH,no_xyz_data,10,9,0.9000
+"ωB97xD, M06-2X",main_group_only,9,0,0.0000
+"TPSS-D3(BJ), M06-2X(D3)",main_group_only,9,0,0.0000
+"M06, D3",4d_TM,9,0,0.0000
+GD3BJ,no_xyz_data,9,9,1.0000
+B3PW91*-D3,main_group_only,9,1,0.1111
+B3LYP-D4,no_xyz_data,9,0,0.0000
+Becke's exchange functional,5d_TM,9,0,0.0000
+Perdew's correlation functional,5d_TM,9,0,0.0000
+UPBE0,5d_TM,9,9,1.0000
+"PBE-D3, M06L, M06, PBE0-D3, B3LYP",main_group_only,9,0,0.0000
+PBEPBE,3d_TM,9,0,0.0000
+rev-DSD-PBEP86-D4,main_group_only,9,8,0.8889
+B97-2,main_group_only,9,0,0.0000
+PBE100,5d_TM,9,0,0.0000
+HF,5d_TM,9,0,0.0000
+CAM-B3LYP+GD3,5d_TM,9,0,0.0000
+dDsC,main_group_only,9,0,0.0000
+Grimme's D3(0),no_xyz_data,9,0,0.0000
+XYGJ-OS,main_group_only,9,2,0.2222
+(U)ωB97X-D,3d_TM,9,0,0.0000
+n.a.,no_xyz_data,9,0,0.0000
+uDSD-PBEP86,no_xyz_data,9,0,0.0000
+PW6B95-D3(BJ),3d_TM,9,0,0.0000
+M06,actinides,9,7,0.7778
+B3LYP,actinides,8,5,0.6250
+PM6,main_group_only,8,0,0.0000
+"M06, B3LYP-D3",4d_TM,8,0,0.0000
+M06(D3),main_group_only,8,0,0.0000
+M06L-D3zero,3d_TM,8,8,1.0000
+optB86b-vdW,main_group_only,8,0,0.0000
+ωB97X-D10,no_xyz_data,8,8,1.0000
+"B3LYP-D3, ωB97X-D, B3P86, M06-L, BP86, BP86G, PBE1PBE",4d_TM,8,0,0.0000
+"PBE0, D3BJ",no_xyz_data,8,0,0.0000
+PBEB95,no_xyz_data,8,0,0.0000
+M06-LD3,no_xyz_data,8,0,0.0000
+∆EM06,no_xyz_data,8,0,0.0000
+"B3-LYP, M11-L",4d_TM,8,0,0.0000
+"b3-lyp, M06-2X",no_xyz_data,8,0,0.0000
+B3LYP(D3),5d_TM,8,0,0.0000
+LDA,main_group_only,8,0,0.0000
+"PBE0, M06",3d_TM,8,2,0.2500
+UωB97XD,main_group_only,8,0,0.0000
+DSD-BLYP,main_group_only,8,5,0.6250
+B97-D3(bj),4d_TM,8,0,0.0000
+not specified,3d_TM,8,7,0.8750
+B3PW91**,main_group_only,8,0,0.0000
+(u)ωB97XD,main_group_only,8,0,0.0000
+BP86; B3LYP,main_group_only,8,0,0.0000
+"B3LYP, TPSS",5d_TM,8,0,0.0000
+(U)M06,3d_TM,8,7,0.8750
+PBEPBE,4d_TM,8,1,0.1250
+PBE-D4(EEQ),3d_TM,8,0,0.0000
+B98,main_group_only,7,0,0.0000
+B2PLYP,3d_TM,7,0,0.0000
+HCTH407,main_group_only,7,0,0.0000
+"HSE06, B3LYP",no_xyz_data,7,0,0.0000
+uM06-2X,main_group_only,7,0,0.0000
+HF,no_xyz_data,7,0,0.0000
+B3LYP-D3(SMD),main_group_only,7,0,0.0000
+BMK-D3(BJ),4d_TM,7,0,0.0000
+B97-3c,4d_TM,7,0,0.0000
+IEFPCM B3LYP,main_group_only,7,0,0.0000
+HCTH407,3d_TM,7,0,0.0000
+VSXC,3d_TM,7,0,0.0000
+TPSS1,no_xyz_data,7,7,1.0000
+M06-3,5d_TM,7,0,0.0000
+Grimme's D3,4d_TM,7,0,0.0000
+(U)BB86-D3,3d_TM,7,0,0.0000
+CAS,3d_TM,7,0,0.0000
+B97-3c,5d_TM,7,0,0.0000
+"B3LYP, M06L",4d_TM,7,7,1.0000
+PWPB95(D3),main_group_only,7,0,0.0000
+Becke and Perdew (BP),3d_TM,7,0,0.0000
+APFD,no_xyz_data,7,0,0.0000
+UAPFD,no_xyz_data,7,0,0.0000
+PBE0-GD3BJ,main_group_only,7,4,0.5714
+M063,no_xyz_data,7,0,0.0000
+"BLYP, M06-2X, DFT-D3(BJ)",main_group_only,7,0,0.0000
+"Becke-Perdew (BP86), OPBE",no_xyz_data,7,0,0.0000
+RωB97X-D,main_group_only,7,0,0.0000
+"B3LYP, MO6-2X",main_group_only,7,0,0.0000
+"B3LYP, PBE0, ωB97X-D",3d_TM,7,0,0.0000
+B3LYP**,3d_TM,7,3,0.4286
+ωB97X-2(TQZ),3d_TM,7,0,0.0000
+DSD-PBEB95,3d_TM,7,0,0.0000
+B3LYP-GD3(BJ),no_xyz_data,6,0,0.0000
+PBE-D3(BJ),5d_TM,6,0,0.0000
+PBEh-3c; revDSD-PBEP86,main_group_only,6,0,0.0000
+Grimme’s dispersion correction D3,main_group_only,6,0,0.0000
+EOM-CCSD,main_group_only,6,0,0.0000
+CIS,main_group_only,6,0,0.0000
+uM06,main_group_only,6,0,0.0000
+B3LYP; m06,4d_TM,6,0,0.0000
+BJ-damped DFT-D3,5d_TM,6,0,0.0000
+"CASSCF(2e,2o)",main_group_only,6,2,0.3333
+UPBE,main_group_only,6,2,0.3333
+"BP86, B3LYP",3d_TM,6,6,1.0000
+MPW1-B95,main_group_only,6,0,0.0000
+PW6-B95-D3,main_group_only,6,0,0.0000
+PW6-B95,main_group_only,6,0,0.0000
+B3-PW91-D3,main_group_only,6,0,0.0000
+ZORA-B3LYP-D3,4d_TM,6,0,0.0000
+PBE+D,4d_TM,6,0,0.0000
+PBEh,4d_TM,6,0,0.0000
+ωB97X-D4,3d_TM,6,0,0.0000
+BP86-D4,5d_TM,6,4,0.6667
+uB3LYP-d3,main_group_only,6,0,0.0000
+PBEh-3C,4d_TM,6,0,0.0000
+r2scan-3c,4d_TM,6,0,0.0000
+PWPB95,4d_TM,6,0,0.0000
+"B3LYP-D3, M06-L",main_group_only,6,0,0.0000
+B97M-D4,no_xyz_data,6,2,0.3333
+DSD-BLYP-D3(BJ),no_xyz_data,6,2,0.3333
+B3LYP(GD3BJ),3d_TM,6,3,0.5000
+SCAN,main_group_only,6,0,0.0000
+"TPSS-D3, B2PLYP-D3, PW6B95-D3",no_xyz_data,6,0,0.0000
+ωB97X-D,actinides,6,6,1.0000
+BH-LYP,no_xyz_data,6,4,0.6667
+M06-D3,actinides,5,2,0.4000
+"M06, OPBE, PBE0",3d_TM,5,0,0.0000
+mPW2PLYP,5d_TM,5,0,0.0000
+BPW91-30HF,main_group_only,5,0,0.0000
+B2PLYP,no_xyz_data,5,0,0.0000
+BP,main_group_only,5,0,0.0000
+"B3LYP, B3LYP-D3, M11",main_group_only,5,0,0.0000
+BLYP-D3BJ,main_group_only,5,0,0.0000
+BVP86,main_group_only,5,0,0.0000
+"PBE-D3, M06L",3d_TM,5,3,0.6000
+B3LYP; M06,no_xyz_data,5,0,0.0000
+LC-BLYP,3d_TM,5,0,0.0000
+B3LYP(B1),3d_TM,5,0,0.0000
+UwB97XD,main_group_only,5,0,0.0000
+D3(BJ),no_xyz_data,5,0,0.0000
+ZORA-BP86-D3,main_group_only,5,0,0.0000
+"M06L, B3LYP",3d_TM,5,0,0.0000
+PBE0-D3,5d_TM,5,0,0.0000
+B3LYP3-D3,main_group_only,5,0,0.0000
+ωB97X-3D,main_group_only,5,0,0.0000
+UωB97X-D,no_xyz_data,5,0,0.0000
+"M06, PBE0, PBE0-dDsC",main_group_only,5,0,0.0000
+r²SCAN,no_xyz_data,5,0,0.0000
+SCS-MP2,4d_TM,5,0,0.0000
+τHCTHh,4d_TM,5,0,0.0000
+"B3LYP, GD3BJ",3d_TM,5,0,0.0000
+M05,3d_TM,5,3,0.6000
+revDSD-PBEP86-D4,main_group_only,5,5,1.0000
+uM06L-D3,main_group_only,5,0,0.0000
+!ωB97XD,4d_TM,5,0,0.0000
+PW6B95(-D3),4d_TM,5,0,0.0000
+"BP86, PBE",4d_TM,5,0,0.0000
+r2SCAN-3c,5d_TM,5,4,0.8000
+mPW2PLYP-D4,5d_TM,5,4,0.8000
+B3LYP-D4,5d_TM,5,4,0.8000
+RPBE,3d_TM,4,0,0.0000
+"LDA VWN, GGA Becke Perdew",3d_TM,4,4,1.0000
+"BLYP-D3BJ, CAMY-B3LYP",main_group_only,4,0,0.0000
+"B3PW91, M062X, PBE0",no_xyz_data,4,0,0.0000
+TD-PBE0-D3(BJ),main_group_only,4,0,0.0000
+LC-ωPBE,4d_TM,4,1,0.2500
+B3LYP+D3,no_xyz_data,4,0,0.0000
+PBEsol,5d_TM,4,0,0.0000
+TPSSh+DFT-D3,3d_TM,4,0,0.0000
+GD3,3d_TM,4,0,0.0000
+PW6B95-D3(BJ),4d_TM,4,0,0.0000
+wB97,no_xyz_data,4,0,0.0000
+"B3LYP, TPSSh",no_xyz_data,4,0,0.0000
+revPBE-D3,4d_TM,4,0,0.0000
+rCAM-B3LYP,main_group_only,4,0,0.0000
+(U)M062X,main_group_only,4,0,0.0000
+(U)B3LYP-D3(BJ),main_group_only,4,0,0.0000
+GFN2-xTB,main_group_only,4,0,0.0000
+ωB97X-3c3,main_group_only,4,0,0.0000
+ZORA-BP86-D3(BJ),no_xyz_data,4,0,0.0000
+"M062X, M06L, M06",5d_TM,4,4,1.0000
+PBE0,lanthanides,4,2,0.5000
+BPW91*,no_xyz_data,4,0,0.0000
+"hybrid gradient-corrected exchange functional of Lee, Yang, and Parr",main_group_only,4,0,0.0000
+M06-L,actinides,4,4,1.0000
+w-B2PLYP,no_xyz_data,4,0,0.0000
+CAM-B3LYP-D3(BJ),5d_TM,4,0,0.0000
+"B97-3c, M06",main_group_only,4,0,0.0000
+"B3LYP, PBE",main_group_only,4,0,0.0000
+Becke exchange functional,3d_TM,4,0,0.0000
+"B3LYP, TDB3LYP",main_group_only,4,0,0.0000
+"PBE0, PBE50",no_xyz_data,4,0,0.0000
+"B3LYP, B3PW91, PBE0, B3P86",3d_TM,4,0,0.0000
+Grimme dispersion (GD-3),3d_TM,4,1,0.2500
+"r2SCAN, PWPB95-D3BJ",main_group_only,4,0,0.0000
+wb97XD2,main_group_only,4,0,0.0000
+B3LYP; PBE0,main_group_only,4,3,0.7500
+Grimme's GD3,3d_TM,4,0,0.0000
+RB97D,main_group_only,4,0,0.0000
+ωB97D,main_group_only,4,0,0.0000
+"TPSS, PW6B95-D3",main_group_only,4,0,0.0000
+Vosko-Wilk-Nusair,no_xyz_data,4,0,0.0000
+CAMB3LYP-D3(BJ),main_group_only,4,0,0.0000
+BP86+D3(BJ),main_group_only,3,0,0.0000
+GGA-BP86-D3,3d_TM,3,2,0.6667
+M06-2X,actinides,3,3,1.0000
+"TPSSh, M06-2X",3d_TM,3,2,0.6667
+UM062X,5d_TM,3,0,0.0000
+CAM-B3LYP-GDBJ,main_group_only,3,0,0.0000
+PBES6,main_group_only,3,3,1.0000
+UB+HF-LYP,main_group_only,3,1,0.3333
+M06L-D3,5d_TM,3,0,0.0000
+ωB97M-V,5d_TM,3,0,0.0000
+UB3LYP-D3,5d_TM,3,0,0.0000
+TPSS-D4,3d_TM,3,0,0.0000
+"B3PW91, M06-2X, B3LYP-D3BJ",3d_TM,3,3,1.0000
+"B3LYP, M06-solv-SP",5d_TM,3,1,0.3333
+UTPSSTPSS,no_xyz_data,3,0,0.0000
+"local density approximation of Vosko, Wilk, and Nusair",3d_TM,3,2,0.6667
+nonlocal correlation corrections by Perdew,3d_TM,3,2,0.6667
+nonlocal exchange correction by Becke,3d_TM,3,2,0.6667
+M06-2X-D3zero,main_group_only,3,0,0.0000
+"B3LYP, M062X",main_group_only,3,0,0.0000
+"PBE0, B3LYP, M06L, wB97X-D3BJ",no_xyz_data,3,0,0.0000
+B3LYP; M06,main_group_only,3,0,0.0000
+"B3LYP, BPW91",3d_TM,3,2,0.6667
+"B3LYP, BHandHLYP, BLYP, CAM-B3LYP, B3P86, M06, M06-2X",main_group_only,3,0,0.0000
+UM06L,3d_TM,3,0,0.0000
+UMPWB1K,main_group_only,3,0,0.0000
+MPW1K,5d_TM,3,0,0.0000
+"B3LYP, UB3LYP, UBP86",no_xyz_data,3,0,0.0000
+mPW2PLYP,main_group_only,3,0,0.0000
+B3LYP‑D3(BJ),main_group_only,3,0,0.0000
+D3 dispersion,main_group_only,3,0,0.0000
+OPBE,4d_TM,3,0,0.0000
+CAM-B3LYP-3D,main_group_only,3,0,0.0000
+PBE,lanthanides,3,0,0.0000
+ωB97X-D3(BJ),main_group_only,3,0,0.0000
+"PBE0, PBE0-GD3BJ",main_group_only,3,3,1.0000
+!B97M-V,no_xyz_data,3,0,0.0000
+"PBE0-D3BJ, BP86-D3BJ",main_group_only,3,0,0.0000
+TD-B3LYP-D3,main_group_only,3,0,0.0000
+"B3LYP, ωB97X",5d_TM,3,0,0.0000
+"M06, PBE0-dDsC",main_group_only,3,1,0.3333
+B3LYP-D3(BJ),lanthanides,3,0,0.0000
+M05-2X-D3,main_group_only,3,0,0.0000
+(U)M062x,main_group_only,3,0,0.0000
+PW6B95-D3,lanthanides,3,0,0.0000
+BJ-damped DFT-D3,lanthanides,3,0,0.0000
+Grimme D3,lanthanides,3,2,0.6667
+ROBHandHLYP,main_group_only,2,0,0.0000
+ROCAM-B3LYP,main_group_only,2,0,0.0000
+"PBE0, M052X, B3PW91",no_xyz_data,2,0,0.0000
+Becke,no_xyz_data,2,0,0.0000
+Perdew,no_xyz_data,2,0,0.0000
+B3PW91-GD3,no_xyz_data,2,0,0.0000
+PWPB95-D3,4d_TM,2,0,0.0000
+"B3PW91, M06",4d_TM,2,0,0.0000
+"BH-LYP, PW6B95-D3",main_group_only,2,0,0.0000
+BHLYP,3d_TM,2,0,0.0000
+B3LYP-GD3(BJ),4d_TM,2,0,0.0000
+PBE0-GD3(BJ),main_group_only,2,0,0.0000
+xDH-PBE0,main_group_only,2,0,0.0000
+"B3LYP, M06L",main_group_only,2,0,0.0000
+M15L; B2PLYPD3,main_group_only,2,0,0.0000
+uPBE0,3d_TM,2,0,0.0000
+uO3LYP,3d_TM,2,0,0.0000
+roPBE0,3d_TM,2,0,0.0000
+M062X2-3,main_group_only,2,2,1.0000
+WB97D,main_group_only,2,0,0.0000
+"B1B95, B3LYP",3d_TM,2,0,0.0000
+r2scan-c3,no_xyz_data,2,0,0.0000
+BHandHLYP,5d_TM,2,0,0.0000
+HCTH407,5d_TM,2,0,0.0000
+BPW91,no_xyz_data,2,2,1.0000
+BVWN,no_xyz_data,2,2,1.0000
+BHandH,no_xyz_data,2,2,1.0000
+M05-2X/6-311++G**,no_xyz_data,2,2,1.0000
+M11/6-311++G**,no_xyz_data,2,2,1.0000
+BHandH/6-311++G**,no_xyz_data,2,2,1.0000
+M06L/6-311++G**,no_xyz_data,2,2,1.0000
+ωb97X-D/6-311++G**,no_xyz_data,2,2,1.0000
+PBE/6-311++G**,no_xyz_data,2,2,1.0000
+PBE0/6-311++G**,no_xyz_data,2,2,1.0000
+"BP86, SAOP",main_group_only,2,0,0.0000
+pw6b95-d4,main_group_only,2,0,0.0000
+ωB97-D3,5d_TM,2,2,1.0000
+PBE0,actinides,2,0,0.0000
+"B3LYP-D3(BJ), M06-2X-D3",main_group_only,2,0,0.0000
+VWN-BP,main_group_only,2,1,0.5000
+BOP,main_group_only,2,1,0.5000
+ωB97X-D2,main_group_only,2,0,0.0000
+M06-2X2,main_group_only,2,0,0.0000
+UBHandHLYP,no_xyz_data,2,0,0.0000
+SCRF-B97-2,main_group_only,2,0,0.0000
+ublyp,main_group_only,2,0,0.0000
+GIAO-B3LYP,main_group_only,2,1,0.5000
+B3LYP(D3BJ),main_group_only,2,1,0.5000
+DLPNO-CCSD(T),5d_TM,2,2,1.0000
+BP86-D3(BJ),5d_TM,2,0,0.0000
+PBEsol-D3,5d_TM,2,0,0.0000
+BHandH,5d_TM,2,1,0.5000
+D4-BJ,main_group_only,2,0,0.0000
+"B3LYP, UB3LYP",main_group_only,2,0,0.0000
+UM052X,main_group_only,2,0,0.0000
+RB-LYP,main_group_only,2,0,0.0000
+UBLYP,main_group_only,2,0,0.0000
+D3zero,main_group_only,2,0,0.0000
+"B3LYP-D3, M062X",no_xyz_data,2,0,0.0000
+M061-D3,main_group_only,2,0,0.0000
+DFTD3,main_group_only,2,0,0.0000
+PW6B95-D3,4d_TM,2,0,0.0000
+M06-2X-D3(0),4d_TM,2,0,0.0000
+PBEh-3c,3d_TM,1,0,0.0000
+B97X-D,5d_TM,1,0,0.0000
+BP86-D3BJ,4d_TM,1,0,0.0000
+TPSSh-D3BJ,4d_TM,1,0,0.0000
+B3LYP+D,main_group_only,1,0,0.0000
+"B3LYP, BHLYP",main_group_only,1,0,0.0000
+"BP86, OLYP",4d_TM,1,0,0.0000
+"PBE, BPBE",main_group_only,1,0,0.0000
+UM062X,no_xyz_data,1,0,0.0000
+rM06,4d_TM,1,0,0.0000
+"VWN, Becke, Perdew",no_xyz_data,1,0,0.0000
+ωPBE,5d_TM,1,0,0.0000
+PBEH-3c,5d_TM,1,0,0.0000
+Becke-Perdew (BP86),3d_TM,1,0,0.0000
+BH-LYP,3d_TM,1,0,0.0000
+"M06-L, B2-PLYP-D, B97-D, BP86, B3PW91",4d_TM,1,0,0.0000
+"PW91, OLYP",3d_TM,1,1,1.0000
+CBS-QB3,no_xyz_data,1,0,0.0000
+(U)ωB97XD,no_xyz_data,1,0,0.0000
+revPBE,5d_TM,1,0,0.0000
+DLPNO-SCS-MP2,5d_TM,1,0,0.0000
+B3LYP(D3),main_group_only,1,0,0.0000
+B3LYP-D3(zero),3d_TM,1,0,0.0000
+"B3LYP, M06X2",3d_TM,1,0,0.0000
+"B3LYP, B3LYP-D3, B97D",main_group_only,1,0,0.0000
+r2SCAN-D3(BJ),main_group_only,1,0,0.0000
+"BLYP, B3LYP*, BHandHLYP",no_xyz_data,1,0,0.0000
+Becke exchange correction,main_group_only,1,0,0.0000
+Perdew correlation correction,main_group_only,1,0,0.0000
+ωB97X-D13,4d_TM,1,0,0.0000
+DSD-PBEP86-D3BJ,main_group_only,1,1,1.0000
+PBE-D3MBJ,4d_TM,1,0,0.0000
+APFD,3d_TM,1,0,0.0000
+B3LYP/G,3d_TM,1,0,0.0000
+WB97,3d_TM,1,0,0.0000
+revTPSS,3d_TM,1,0,0.0000
+ωB97xD-D3,5d_TM,1,1,1.0000
+Grimme's D3BJ,3d_TM,1,0,0.0000
+ZORA-PBE-D3(BJ),4d_TM,1,0,0.0000
+G96PBE,4d_TM,1,0,0.0000
+O3LYP,4d_TM,1,0,0.0000
+"VWN, Becke's exchange correction, Perdew's correlation correction, OLYP",no_xyz_data,1,0,0.0000
+PBE03,3d_TM,1,0,0.0000
+RB3PW91,main_group_only,1,0,0.0000
+MO6-2X,no_xyz_data,1,0,0.0000
+B3LYP*(15% HF),main_group_only,1,0,0.0000
+M062-2x,main_group_only,1,0,0.0000
+BPBE-D3,no_xyz_data,1,0,0.0000
+BPBE,no_xyz_data,1,0,0.0000
+"M06-2X, B3LYP",main_group_only,1,0,0.0000
+VWN,4d_TM,1,0,0.0000
+M06-2x6,4d_TM,1,1,1.0000
+S12g,3d_TM,1,0,0.0000
+rCAM-B3LYP,no_xyz_data,1,0,0.0000
+TPSSTPSS,no_xyz_data,1,0,0.0000
+"B3LYP, PBE0, BP86",3d_TM,1,0,0.0000
+B3P86,5d_TM,1,0,0.0000
+BP86+D3(BJ),3d_TM,1,0,0.0000
