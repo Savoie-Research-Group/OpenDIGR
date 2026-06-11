@@ -1,0 +1,62 @@
+Charge / multiplicity extraction summary (parallel run)
+============================================================
+
+workers used: 16
+elapsed wallclock: 2048.9 seconds
+
+Total xyz files scanned:                 2,275,388
+  blank or unreadable comment lines:     8,872
+    of which unreadable:                 0
+  matched (full charge+mult):            96,303  (4.23%)
+  partial (charge only OR mult only):    95,765  (4.21%)
+  unmatched (non-blank but no signal):   2,074,448
+
+Pattern frequency:
+  partial_charge_only               78,147
+  P3_two_ints_strict                73,333
+  partial_mult_only                 17,618
+  P1_explicit                       14,583
+  P4_spin_only                       4,502
+  P3_two_ints_loose                  1,746
+  P4_spin+P1                           937
+  P2_words                             733
+  P1+P2                                449
+  P4_spin+P2                            20
+
+--- per-paper coverage ---
+Total papers seen:                   50,338
+Papers with at least 1 labeled xyz:  2,958  (5.88%)
+Total leaf dirs:                     261,613
+Leaves with at least 1 labeled xyz:  38,331  (14.65%)
+
+--- charge distribution ---
+  charge= -5            7
+  charge= -4           75
+  charge= -3          264
+  charge= -2          883
+  charge= -1        8,022
+  charge= +0       96,257
+  charge= +1       65,552
+  charge= +2        2,426
+  charge= +3          469
+  charge= +4          288
+  charge= +5          207
+
+--- multiplicity distribution ---
+  M=1       81,052
+  M=2       13,221
+  M=3       11,355
+  M=4        2,279
+  M=5        3,311
+  M=6        1,000
+  M=7        1,100
+  M=8          217
+  M=9          267
+  M=10          119
+
+Outputs:
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin_groundtruth.csv
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin_coverage.csv
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin_value_distribution.csv
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin_unmatched_sample.txt
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin_summary.txt

@@ -1,0 +1,1502 @@
+First 500 non-blank comment lines that did NOT match any pattern.
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'Energy =    -153.9047428036'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'Energy =   -4223.6036882980'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'Energy =   -4223.4001029210'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'Energy =   -4224.7664209530'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'Energy =   -4223.5948172630'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'Energy =   -3995.5566844400'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'Energy =   -4070.8424343390'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'Energy =   -4223.5936501750'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'Energy =   -4070.8537423910'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'Energy =   -4223.5828713650'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'Energy =   -4148.3139822630'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'Energy =   -4148.2971952820'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'Energy =    -229.2061431107'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'Energy =   -4223.5963704690'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'Energy =    -230.3853202744'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'Energy =   -4148.2920298380'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'Energy =      -1.1775301791'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaa8938/pdf-processed-XYZ/aaa8938-korstanje-sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'Energy =   -4224.7616681460'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaw7742/pdf-processed-XYZ/aaw7742_hood_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  '[Co(acac)(dioxane)4](BF4) 10 min N/A N/A 0 0 0 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaw7742/pdf-processed-XYZ/aaw7742_hood_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  '+ 50 eq PPh3'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaw7742/pdf-processed-XYZ/aaw7742_hood_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  '+ 2 eq PPh3'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/41.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/43.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/53.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Time (min) 1a (M) 3a (M) 4a (M)'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/58.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/40.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/54.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/48.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/39.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/66.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/63.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/60.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/44.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/67.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/47.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/59.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/64.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/42.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/46.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/55.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/69.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/65.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/70.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/61.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/49.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/38.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/62.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/45.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/50.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/52.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/68.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/57.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/51.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/56.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg5526/pdf-processed-XYZ/abg5526_lyu_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/41.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/43.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/53.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/58.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/40.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/54.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/48.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/39.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/44.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/47.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/42.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/46.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/55.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/56.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/49.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/38.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/45.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/50.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/52.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/51.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/57.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adk1001/pdf-processed-XYZ/science.adk1001_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.1254061/pdf-processed-XYZ/calegari-sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  ') Freq. (PHz) Period (fs)'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/41.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/43.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/53.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/58.xyz
+  'Imaginary frequency at -1096 cm-1.'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  '-9426.13 459.707 273.996 -9074.14'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/40.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/76.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/54.xyz
+  '-7106.51 327.575 237.440 -6872.28'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/48.xyz
+  '-7598.97 366.174 240.644 -7327.41'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  '-9750.87 465.963 283.063 -9396.19'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/39.xyz
+  '-9739.51 466.707 290.991 -9387.21'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/71.xyz
+  'Imaginary frequency at -559 cm-1.'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/66.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  '-2310.93 78.537 129.221 -2280.61'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/78.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/75.xyz
+  '-7239.41 326.261 221.109 -7000.08'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/63.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/60.xyz
+  '-7095.54 326.367 227.977 -6813.99'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/44.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/67.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  '-1954.78 71.470 114.938 -1926.20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  '-7136.17 328.919 231.755 -6898.37'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/47.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/59.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/64.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/42.xyz
+  '-9746.37 465.114 272.528 -9388.40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/46.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  '-2663.20 85.611 142.857 -2630.90'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/55.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/69.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/70.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/61.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/56.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/49.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/38.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/62.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/45.xyz
+  '-7615.13 367.159 235.108 -7340.40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/72.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/50.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/52.xyz
+  '-7260.72 327.581 228.893 -7023.13'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/77.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/68.xyz
+  '-9743.78 461.751 264.542 -9386.03'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/57.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/74.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/51.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  '-6781.04 321.595 219.110 -6545.59'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'Atom X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/65.xyz
+  '-9738.20 464.842 281.085 -9383.87'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.aaf9621/pdf-processed-XYZ/aaf9621-willcox-sm-xyz_no_footer.rm_footer_blocks/73.xyz
+  '-7562.60 364.122 235.052 -7290.89'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abn8910/pdf-processed-XYZ/science.abn8910_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'control'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abn8910/pdf-processed-XYZ/science.abn8910_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'CaFx'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abn8910/pdf-processed-XYZ/science.abn8910_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'LiF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abn8910/pdf-processed-XYZ/science.abn8910_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'MgFx'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abn8910/pdf-processed-XYZ/science.abn8910_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'NaF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/81.xyz
+  '1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/41.xyz
+  '2a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/43.xyz
+  'TS-I-2a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'TS-I-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  'TS-VI-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/53.xyz
+  '3a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'TS-II-1a-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'Int-2-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  '0.256089 -1045.737304 -1045.807415'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/80.xyz
+  'Int-3-1dd-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/58.xyz
+  'Int-20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'PhSH'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  'Int-17'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  '19-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/40.xyz
+  '20-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/76.xyz
+  'TS-II-1dd-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  '-'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/54.xyz
+  '3a-B'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/48.xyz
+  'Int-6'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'Int-16'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  'styrene'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  '1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/84.xyz
+  'Int-23'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/86.xyz
+  'Int-24'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/39.xyz
+  '20-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/83.xyz
+  '2a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/71.xyz
+  'TS-II-1n-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/66.xyz
+  'Int-3-1n-F'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'Int-3-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'Int-2'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/78.xyz
+  'Int-2-1dd-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'Int-3-NaF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'TS-III-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/85.xyz
+  '3a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/75.xyz
+  'Int-2-1dd-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/63.xyz
+  '27-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'H3PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  'Int-3-alkene'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/60.xyz
+  'Int-21'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/44.xyz
+  'Int-5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/82.xyz
+  'Int-22'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  '19-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/67.xyz
+  'Int-2-1n-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'B•'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  'Int-2-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'PhS•'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/47.xyz
+  'Int-6-HF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  'Int-7'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/59.xyz
+  'Int-21-HF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/64.xyz
+  '27-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'Int-3-NaF-pr'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'Int-3-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/42.xyz
+  '2a-B'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/46.xyz
+  'Int-18'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'Int-3-HF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/55.xyz
+  'TS-I-3a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/69.xyz
+  'Int-3-1n-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/65.xyz
+  'Int-2-1n'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/73.xyz
+  'Int-2-1dd'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/70.xyz
+  'Int-2-1n-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/61.xyz
+  'Int-21-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'Int-3-NaH2PO4-pr'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/56.xyz
+  'Int-19'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'TS-IV-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/49.xyz
+  'Int-6-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  'Int-7-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/38.xyz
+  'TS-VII-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/62.xyz
+  'TS-III-3a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/79.xyz
+  'TS-II-1dd-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'H2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/45.xyz
+  'TS-II-2a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/72.xyz
+  'Int-3-1n-NaH2PO4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/50.xyz
+  'TS-III-2a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'Int-4'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/52.xyz
+  '26-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/77.xyz
+  'Int-3-1dd-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/68.xyz
+  'TS-II-1n-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/57.xyz
+  'TS-II-3a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/74.xyz
+  'Int-3-1dd-F'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'Int-3'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/51.xyz
+  '26-S'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  'TS-II-1a-Na'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'TS-V-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'TS-II-1a'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  '1a-B'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abg0781/pdf-processed-XYZ/abg0781_yu_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'HF'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adi4107/pdf-processed-XYZ/science.adi4107_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Control'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adi4107/pdf-processed-XYZ/science.adi4107_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  '345FAn'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adi4107/pdf-processed-XYZ/science.adi4107_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'An'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adi4107/pdf-processed-XYZ/science.adi4107_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'PEA'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/sciadv.adn3478/pdf-processed-XYZ/sciadv.adn3478_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Node Accuracy Precision (Off predictions) Precision (On predictions)'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  '1 0.00  6.033  1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Cmeta (ref) C2 C4 C5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  '1 0.00  6.819 1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  '1 0.00  5.819  1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'Cmeta (ref) C2 C4 C5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  '1 0.00  6.694  1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/38.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'Cmeta (ref) C2 C4 C5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.adq6245/pdf-processed-XYZ/science.adq6245_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  '==============================='
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/34.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk1603/pdf-processed-XYZ/science.abk1603_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'ATOM       X           Y           Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abi7183/pdf-processed-XYZ/science.abi7183_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'Free Energy with quasiharmonic correction:  -941.458839 hartree'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abi7183/pdf-processed-XYZ/science.abi7183_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  'Free Energy with quasiharmonic correction:  -1414.464275 hartree'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abi7183/pdf-processed-XYZ/science.abi7183_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'Free Energy with quasiharmonic correction:  -1414.464847 hartree'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abi7183/pdf-processed-XYZ/science.abi7183_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'Free Energy with quasiharmonic correction:  -651.634773 hartree'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/sciadv.ads6123/pdf-processed-XYZ/sciadv.ads6123_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Empirical formula C16H24N2BiCl5 C32H48N4Bi2Br10 C32H48N4Bi2I10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/sciadv.ads6123/pdf-processed-XYZ/sciadv.ads6123_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  '32106, 12491, 11023 26014, 11335, 10136 33616, 9916, 9303'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/sciadv.ads6123/pdf-processed-XYZ/sciadv.ads6123_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'Chemical formula C16H24N2BiBr4.296Cl0.704 C32H48N4Bi2Br1.854I8.146 C32H48N4Bi2Br6.753I3.247'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/sciadv.ads6123/pdf-processed-XYZ/sciadv.ads6123_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  '11829, 7787, 5230 16166, 9513, 6206 13239, 9378, 7692'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/41.xyz
+  'C         -0.5731845603       -1.2405671408        0.0000000000 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/43.xyz
+  'H          0.8143705021        1.5834353552       -1.3124862543 20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/06.xyz
+  'C          0.0000000000       -0.0266349878       -0.4717290326 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/35.xyz
+  '9          1           0        1.536527    0.032180    1.304755 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/53.xyz
+  'C   0.387938 -1.267658 0.854597 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/30.xyz
+  'O          0.9163221248       -2.4659967275        0.0000000000 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/25.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.76482835'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.72795381'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/58.xyz
+  'H   0.979635 1.713096 -1.193893 55'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/12.xyz
+  'H          0.0833211331        2.0265437952        0.4056571454 20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/22.xyz
+  'O          0.0859349850        0.0000000000        2.0148621710 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/16.xyz
+  'C         -1.2403808249        0.9107004089       -0.4855226900 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/40.xyz
+  '12          1           0       -2.188550    0.489692   -1.413001 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/18.xyz
+  'C          0.0867219600       -0.0102443265       -0.5302686940 5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/54.xyz
+  'H   0.337346 -2.149957 0.217700 20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/48.xyz
+  'H        1.010476    0.972825    3.135001    15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/20.xyz
+  'H          1.5392057862       -1.3605754648        0.2749869584 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/33.xyz
+  'B2PLYP-D3/cc-pVTZ geometry and frequencies:'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'H         -1.4845397603        1.5388360659        0.4672396053 20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/39.xyz
+  '7          1           0       -0.712657   -1.927109    1.010600 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/71.xyz
+  'H   -2.513293 -0.292206 -0.156251 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/66.xyz
+  'Submitted Manuscript: Confidential'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/13.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.72678267'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/07.xyz
+  'H         -0.9322666107        1.3609800835       -1.9642865408 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/28.xyz
+  'H          1.5789903795        0.1013008536       -1.3090073743 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/14.xyz
+  'O         -0.0297453901       -0.8440844182        0.6885658860 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/63.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY= -307.76664227'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/19.xyz
+  'H         -1.6899100218       -0.8859067610       -1.5427663367 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/60.xyz
+  'H   0.787237 1.630731 -1.544360 20'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/44.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-75.65810903'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/15.xyz
+  'H          0.9061094577       -1.3318715975       -2.0120448291 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/67.xyz
+  'H   -2.169197 -1.242951 0.241840 5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'H          2.0132611250       -1.0442845322        0.5448553935 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/29.xyz
+  'UCCSD(T)/CC-PVDZ  ENERGY=-307.36580748'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/17.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.70857544'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/47.xyz
+  'H        0.938688    0.004988   -0.526486   10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/36.xyz
+  '14          1           0        0.109164    0.654895   -2.141231 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/59.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY= -307.76643542'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/64.xyz
+  'H   0.287966 -0.953412 1.967027 50'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/27.xyz
+  'H         -1.9566516503        1.1941074734       -0.9201595180 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/32.xyz
+  'H          0.0809897403        0.6459687355       -2.1644267542 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.72544619'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/11.xyz
+  'C         -1.5516503936       -0.0131227575       -0.4143031755 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/42.xyz
+  'H         -0.9591621251       -1.6676770365       -0.9198129058 15'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/46.xyz
+  'C        0.000861    0.000912    1.494966    5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/09.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.72703118'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/55.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY= -307.76703333'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/69.xyz
+  'O   0.711383 -0.655400 -0.569036 25'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/65.xyz
+  'C   -1.144224 1.288985 -0.273858 55'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/70.xyz
+  'H   -0.266094 0.684779 2.216459 30'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/61.xyz
+  'H   -0.508478 0.610267 1.856998 25'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/21.xyz
+  'UCCSD(T)-F12/CC-PVDZ-F12  ENERGY=-307.70829117'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/49.xyz
+  'O   0.700135 -0.598138 -0.653607 35'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/37.xyz
+  'B2PLYP-D3/cc-pVTZ geometry and frequencies:'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/62.xyz
+  'H   2.188044 -0.750677 0.966338 30'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'C         -0.3950521787        1.4947683082        0.4620848121 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/45.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY= -307.77575215'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/50.xyz
+  'H   -0.122250 0.308108 2.287801 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/24.xyz
+  'H          1.6022257275        1.2932414905        0.2558278334 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/52.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY= -307.77456120 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/68.xyz
+  'UCCSD(T)-F12/cc-pVTZ-F12 ENERGY=-307.773674976267'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/57.xyz
+  'H   0.768357 -1.317279 -1.596648 50'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/10.xyz
+  'H          0.8121238306        0.2809403355        2.2547247986 10'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/51.xyz
+  'H   -1.215882 1.987561 0.402250 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/26.xyz
+  'C         -0.0084012292        0.6858332225        0.0000000000 5'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/23.xyz
+  'H          0.2660830965       -2.1439961266       -0.5342668510 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/08.xyz
+  'H          2.1464664587       -0.2384525834       -0.4489972315 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/31.xyz
+  'H          1.5001606233       -0.0534718534        1.3153657412 40'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abj0412/pdf-processed-XYZ/science.abj0412_sm-xyz_no_footer.rm_footer_blocks/56.xyz
+  'H   1.791202 -0.105227 1.803303 45'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/06.xyz
+  '\uf8ec\uf8ec\uf8ed'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/01.xyz
+  'B2 1 1 -1 -1 1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/12.xyz
+  '-d22 d22 0 d15 0 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/22.xyz
+  '5 11 -1 -1 1 -1 11 -1 1 -1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/16.xyz
+  'C12 C11 C13 0 0 -C16'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/18.xyz
+  '\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ed'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/20.xyz
+  'element C11 C12 C44'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/13.xyz
+  '0 0 0 d15 -d14 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/07.xyz
+  '√'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/14.xyz
+  '-d22 d22 0 0 0 -2d11'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/19.xyz
+  '\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ed'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/15.xyz
+  '\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ec\uf8ed'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/03.xyz
+  '0 0 0 -i'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/17.xyz
+  'C12 C11 C13 -C14 C25 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/05.xyz
+  '0 -i 0 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/11.xyz
+  '-d22 d22 0 d15 -d14 -2d11'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/09.xyz
+  '0 0 0 d15 -d14 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/21.xyz
+  'Al 108 62 28.3'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/02.xyz
+  '0 0 0 1'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/10.xyz
+  '0 0 0 0 -d14 -2d11'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/23.xyz
+  'δω03 δω31 -δω23 0 δb3'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abk3333/pdf-processed-XYZ/GROUP_THEORY-xyz_no_footer.rm_footer_blocks/08.xyz
+  '0 0 0 d24 0 0'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm2295/pdf-processed-XYZ/science.abm2295_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'Hg-1212 b 3.8630 12.6978 179.5 2.822'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm2295/pdf-processed-XYZ/science.abm2295_sm-xyz_no_footer.rm_footer_blocks/04.xyz
+  'def2-TZVP'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm2295/pdf-processed-XYZ/science.abm2295_sm-xyz_no_footer.rm_footer_blocks/03.xyz
+  'def2-SVP'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm2295/pdf-processed-XYZ/science.abm2295_sm-xyz_no_footer.rm_footer_blocks/05.xyz
+  'Method nCuO2 mCu bCu'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm2295/pdf-processed-XYZ/science.abm2295_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'CuO 2-'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm5134/pdf-processed-XYZ/science.abm5134_sm-xyz_no_footer.rm_footer_blocks/01.xyz
+  'X Y Z'
+
+/groups/bsavoie2/zli43/Original-Files/doi_files/10.1126/science.abm5134/pdf-processed-XYZ/science.abm5134_sm-xyz_no_footer.rm_footer_blocks/02.xyz
+  'γ = 90◦ O4 1c 0.500 0.000 0.310'
+

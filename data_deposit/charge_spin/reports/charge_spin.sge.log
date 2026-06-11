@@ -1,0 +1,37 @@
+Loading CRC_default/1.1
+Loading CRC_default/1.1
+Job:       ChargeSpin-Extract  (948132)
+Host:      d64cepyc017.crc.nd.edu
+Started:   Fri May 22 08:47:17 PM EDT 2026
+N_WORKERS: 16
+
+[0s] Stage 1: walking filesystem ...
+[1365s]   2,275,388 xyz files queued for parsing
+[1365s] Stage 2: parsing with 16 workers ...
+[1402s]   100,000/2,275,388 matched=3,919  partial=745  unread=0
+[1431s]   200,000/2,275,388 matched=4,737  partial=2,240  unread=0
+[1458s]   300,000/2,275,388 matched=7,806  partial=3,276  unread=0
+[1487s]   400,000/2,275,388 matched=11,491  partial=4,414  unread=0
+[1518s]   500,000/2,275,388 matched=13,592  partial=6,218  unread=0
+[1549s]   600,000/2,275,388 matched=15,678  partial=7,503  unread=0
+[1576s]   700,000/2,275,388 matched=19,337  partial=8,798  unread=0
+[1601s]   800,000/2,275,388 matched=24,929  partial=10,272  unread=0
+[1626s]   900,000/2,275,388 matched=27,807  partial=11,925  unread=0
+[1654s]   1,000,000/2,275,388 matched=30,438  partial=16,133  unread=0
+[1706s]   1,100,000/2,275,388 matched=30,768  partial=17,302  unread=0
+[1737s]   1,200,000/2,275,388 matched=37,036  partial=21,258  unread=0
+[1766s]   1,300,000/2,275,388 matched=57,951  partial=21,575  unread=0
+[1795s]   1,400,000/2,275,388 matched=62,151  partial=23,177  unread=0
+[1825s]   1,500,000/2,275,388 matched=68,017  partial=28,082  unread=0
+[1857s]   1,600,000/2,275,388 matched=69,577  partial=78,290  unread=0
+[1885s]   1,700,000/2,275,388 matched=73,931  partial=89,147  unread=0
+[1913s]   1,800,000/2,275,388 matched=76,854  partial=89,950  unread=0
+[1941s]   1,900,000/2,275,388 matched=81,475  partial=91,131  unread=0
+[1970s]   2,000,000/2,275,388 matched=86,238  partial=91,864  unread=0
+[1998s]   2,100,000/2,275,388 matched=90,658  partial=92,735  unread=0
+[2026s]   2,200,000/2,275,388 matched=94,506  partial=93,994  unread=0
+[2049s] Stage 2 done. Writing summary files ...
+[2049s] Done. Outputs in /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results
+
+Finished:  Fri May 22 09:21:26 PM EDT 2026
+Loading CRC_default/1.1

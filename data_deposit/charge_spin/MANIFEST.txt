@@ -1,0 +1,21 @@
+Charge/spin ground-truth bundle — 2026-05-29
+
+FILE                                                                BYTES
+----                                                                -----
+data/charge_spin_coverage.csv                                     1624808
+data/charge_spin_groundtruth.csv                                 64575390
+data/charge_spin_unmatched_sample.txt                               89837
+data/charge_spin_value_distribution.csv                               672
+data/parity_corrected_coverage.csv                               31861887
+MANIFEST.txt                                                          196
+README.md                                                            3022
+reports/CHARGE_SPIN_GROUNDTRUTH_REPORT.md                           12977
+reports/charge_spin.sge.log                                          2037
+reports/charge_spin_summary.txt                                      2120
+reports/parity_corrected_summary.txt                                 2701
+scripts/extract_charge_spin_parallel.py                             15299
+scripts/extract_charge_spin.py                                      13980
+scripts/parity_corrected_coverage.py                                10019
+scripts/submit_charge_spin.sge                                       1270
+
+TOTAL: 98217325 bytes (93.7 MB)

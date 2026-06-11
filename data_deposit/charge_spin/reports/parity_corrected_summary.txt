@@ -1,0 +1,56 @@
+Parity-corrected lowest-spin coverage summary
+============================================================
+
+Total ground-truth rows (full matches): 96,303
+  successfully parsed (xyz readable):    95,181
+  unreadable / empty xyz coordinates:    1,122
+  parity mismatch (author M wrong parity for our Z-sum): 4,509  (4.74%)
+
+--- Electron-count parity distribution ---
+  even        79,225  (83.2%)
+  odd         15,956  (16.8%)
+
+--- System-specific M_min distribution ---
+  M_min=1      79,225  (83.2%)
+  M_min=2      15,956  (16.8%)
+
+--- Author M minus system-specific M_min ---
+(positive = author chose a higher spin state than the minimum)
+(odd values indicate a parity mismatch between author M and Z-derived parity)
+  ΔM=-1        2,086  ** parity mismatch **
+  ΔM=+0       82,604  (parity OK)
+  ΔM=+1        1,572  ** parity mismatch **
+  ΔM=+2        5,467  (parity OK)
+  ΔM=+3          406  ** parity mismatch **
+  ΔM=+4        1,733  (parity OK)
+  ΔM=+5          365  ** parity mismatch **
+  ΔM=+6          594  (parity OK)
+  ΔM=+7           69  ** parity mismatch **
+  ΔM=+8          274  (parity OK)
+  ΔM=+9           11  ** parity mismatch **
+
+--- Cumulative coverage of 'sample M_min, M_min+2, ..., M_min+2k' ---
+ depth k         M tried      count  cumulative    cum %
+       0           M_min     82,604      82,604   86.79%
+       1   +2 from M_min      5,467      88,071   92.53%
+       2   +4 from M_min      1,733      89,804   94.35%
+       3   +6 from M_min        594      90,398   94.97%
+       4   +8 from M_min        274      90,672   95.26%
+
+Note: 4,509 parity mismatches (4.74%) are not included in the cumulative coverage above — they cannot be reached at any
+spin-state sampling depth that respects electron-count parity.
+
+--- Per-pattern coverage ---
+pattern                                  N    M_min       +2       +4   mismatch
+P3_two_ints_strict                  73,066    92.6%    95.9%    97.2%       2.3%
+P1_explicit                         14,292    86.8%    93.5%    95.7%       4.3%
+P4_spin_only                         4,329    20.1%    46.9%    56.3%      35.4%
+P3_two_ints_loose                    1,378    33.9%    42.0%    48.0%      46.1%
+P4_spin+P1                             937    36.4%    93.9%    94.8%       4.7%
+P2_words                               725    74.1%    98.5%    99.0%       1.0%
+P1+P2                                  436    65.8%    93.8%    95.4%       4.6%
+P4_spin+P2                              18    22.2%    38.9%    38.9%      61.1%
+
+Outputs:
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/parity_corrected_coverage.csv
+  /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/parity_corrected_summary.txt

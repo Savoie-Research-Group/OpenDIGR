@@ -1,0 +1,28 @@
+#!/bin/bash
+#$ -pe smp 16                                  # 16 cores
+#$ -q long                                     # long queue
+#$ -N ChargeSpin-Extract                       # job name
+#$ -l h_rt=2:00:00                             # wallclock limit 2h
+#$ -j y                                        # merge stderr into stdout
+#$ -o /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results/charge_spin.sge.log
+
+# ─────────────────────────────────────────────────────────────
+# Parallel extraction of explicit charge/multiplicity labels
+# from xyz comment lines.  ~2.3M files, line-2 only.
+# ─────────────────────────────────────────────────────────────
+
+cd /groups/bsavoie2/zli43/GoldDIGR-Comp-details/results
+
+# Use the SGE-allocated core count if available; fall back to 16.
+N_WORKERS="${NSLOTS:-16}"
+
+echo "Job:       ${JOB_NAME}  (${JOB_ID})"
+echo "Host:      $(hostname)"
+echo "Started:   $(date)"
+echo "N_WORKERS: ${N_WORKERS}"
+echo
+
+python3 extract_charge_spin_parallel.py "${N_WORKERS}"
+
+echo
+echo "Finished:  $(date)"
