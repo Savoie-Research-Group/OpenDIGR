@@ -1,4 +1,4 @@
-# GoldDIGR: Search, Download, Analyze Open-Source Chemistry Data
+# OpenDIGR: Search, Download, Analyze Open-Source Chemistry Data
 
 <div align="center">
 
